@@ -1533,6 +1533,18 @@
       "csv": [
         "base-single-ethmoji.csv"
       ]
+    },
+    {
+      "name": "Negative 2 Digits",
+      "slug": "-2dig",
+      "description": "2 Digits Negative Numbers.",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "-2dig.png",
+      "csv": [
+        "-2dig.csv"
+      ]
     }
   ]
 }
