@@ -1,10 +1,16 @@
 
 # ENS Collections
 
-ENS Collections are categories of ENS names based on specific patterns or predefined lists. This repository is an effort towards bringing all collections together into one place and standardizing their definition in order to facilitate consistent integrations across platforms and marketplaces.
+ENS Collections are categories of ENS names based on specific patterns or predefined lists. This repository is an effort towards bringing all collections together into one place and standardizing their definition in order to facilitate consistent integrations across platforms and marketplaces. This is a fork from https://github.com/Zimtente/ens-collections 
 
-This repo is maintained by: [@zimtente](https://twitter.com/zimtente) ([ENS.Vision](https://ens.vision)) and [@aoxborrow](https://twitter.com/aoxborrow) ([ENS.Tools](https://ens.tools))
+This repo is maintained by: @ensbuy and is used to display clubs on sales.ensdom.com.
 
+### Make your own club
+We want to allow the ENS community to have maximum flexibity in their clubs. We will allow any pull request to make a new club as long as it is not a duplicate or superset of several clubs. Once a club is created by you, any further edits will also be merged without questions. 
+
+### Club Conflicts
+If someone else wants to change names in a club, they should request a conversation from the creator and we will allow the merge. 
+If a club is no longer maintained or the creator is not contactable, after 30 days, we will pass on the ownership to the nex requested party. 
 
 ### Metadata
 The metadata for all collections in `ens-collections.json`:
