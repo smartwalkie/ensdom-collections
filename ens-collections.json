@@ -8,9 +8,7 @@
       "website": "",
       "chat": "",
       "logo": "ethmoji-quads.png",
-      "csv": [
-        "ethmoji-quads.csv"
-      ]
+      "csv": ["ethmoji-quads.csv"]
     },
     {
       "name": "0x10k Club",
@@ -20,9 +18,7 @@
       "chat": "https://discord.gg/RrfsuKr2dE",
       "website": "",
       "logo": "0x10k-club.png",
-      "csv": [
-        "0x10k-club.csv"
-      ]
+      "csv": ["0x10k-club.csv"]
     },
     {
       "name": "0x99 Club",
@@ -32,9 +28,7 @@
       "chat": "https://discord.gg/RrfsuKr2dE",
       "website": "",
       "logo": "0x99-club.png",
-      "csv": [
-        "0x99-club.csv"
-      ]
+      "csv": ["0x99-club.csv"]
     },
     {
       "name": "0x999 Club",
@@ -44,9 +38,7 @@
       "chat": "https://discord.gg/RrfsuKr2dE",
       "website": "",
       "logo": "0x999-club.png",
-      "csv": [
-        "0x999-club.csv"
-      ]
+      "csv": ["0x999-club.csv"]
     },
     {
       "name": "0xEmojis",
@@ -56,9 +48,7 @@
       "chat": "",
       "website": "",
       "logo": "0xemojis.png",
-      "csv": [
-        "0xemojis.csv"
-      ]
+      "csv": ["0xemojis.csv"]
     },
     {
       "name": "1 Hex Club",
@@ -68,9 +58,7 @@
       "chat": "https://discord.gg/3y8xUv3bPB",
       "website": "https://hexclub.xyz/",
       "logo": "1-hex-club.png",
-      "csv": [
-        "1-hex-club.csv"
-      ]
+      "csv": ["1-hex-club.csv"]
     },
     {
       "name": "2 Hex Club",
@@ -80,9 +68,7 @@
       "chat": "https://discord.gg/3y8xUv3bPB",
       "website": "https://hexclub.xyz/",
       "logo": "2-hex-club.png",
-      "csv": [
-        "2-hex-club.csv"
-      ]
+      "csv": ["2-hex-club.csv"]
     },
     {
       "name": "3 Hex Club",
@@ -92,9 +78,7 @@
       "chat": "https://discord.gg/3y8xUv3bPB",
       "website": "https://hexclub.xyz/",
       "logo": "3-hex-club.png",
-      "csv": [
-        "3-hex-club.csv"
-      ]
+      "csv": ["3-hex-club.csv"]
     },
     {
       "name": "3 Letters",
@@ -104,9 +88,7 @@
       "chat": "https://discord.gg/9maV66mE2e",
       "website": "",
       "logo": "3-letters.png",
-      "csv": [
-        "3-letters.csv"
-      ]
+      "csv": ["3-letters.csv"]
     },
     {
       "name": "3 Letter Dictionary",
@@ -116,9 +98,7 @@
       "chat": "",
       "website": "",
       "logo": "3-letter-dictionary.png",
-      "csv": [
-        "3-letter-dictionary.csv"
-      ]
+      "csv": ["3-letter-dictionary.csv"]
     },
     {
       "name": "3 Letter First Names",
@@ -128,9 +108,7 @@
       "chat": "",
       "website": "",
       "logo": "3-letter-first-names.png",
-      "csv": [
-        "3-letter-first-names.csv"
-      ]
+      "csv": ["3-letter-first-names.csv"]
     },
     {
       "name": "3 Letter Palindromes",
@@ -140,9 +118,7 @@
       "chat": "",
       "website": "",
       "logo": "3-letter-palindromes.png",
-      "csv": [
-        "3-letter-palindromes.csv"
-      ]
+      "csv": ["3-letter-palindromes.csv"]
     },
     {
       "name": "3 Letter All Vowels",
@@ -152,9 +128,7 @@
       "chat": "",
       "website": "",
       "logo": "3-letter-all-vowels.png",
-      "csv": [
-        "3-letter-all-vowels.csv"
-      ]
+      "csv": ["3-letter-all-vowels.csv"]
     },
     {
       "name": "3 Digit Palindromes",
@@ -164,9 +138,7 @@
       "chat": "",
       "website": "",
       "logo": "3-digit-palindromes.png",
-      "csv": [
-        "3-digit-palindromes.csv"
-      ]
+      "csv": ["3-digit-palindromes.csv"]
     },
     {
       "name": "4 Digit Palindromes",
@@ -176,9 +148,7 @@
       "chat": "",
       "website": "",
       "logo": "4-digit-palindromes.png",
-      "csv": [
-        "4-digit-palindromes.csv"
-      ]
+      "csv": ["4-digit-palindromes.csv"]
     },
     {
       "name": "4 Letter Dictionary",
@@ -188,9 +158,7 @@
       "chat": "",
       "website": "",
       "logo": "4-letter-dictionary.png",
-      "csv": [
-        "4-letter-dictionary.csv"
-      ]
+      "csv": ["4-letter-dictionary.csv"]
     },
     {
       "name": "5 Letter Dictionary",
@@ -200,9 +168,7 @@
       "chat": "",
       "website": "",
       "logo": "5-letter-dictionary.png",
-      "csv": [
-        "5-letter-dictionary.csv"
-      ]
+      "csv": ["5-letter-dictionary.csv"]
     },
     {
       "name": "5 Digit Palindromes",
@@ -212,9 +178,7 @@
       "chat": "",
       "website": "",
       "logo": "5-digit-palindromes.png",
-      "csv": [
-        "5-digit-palindromes.csv"
-      ]
+      "csv": ["5-digit-palindromes.csv"]
     },
     {
       "name": "10k Club",
@@ -224,9 +188,7 @@
       "chat": "https://discord.gg/aUemBKUuZ5",
       "website": "https://10kClub.com",
       "logo": "10k-club.png",
-      "csv": [
-        "10k-club.csv"
-      ]
+      "csv": ["10k-club.csv"]
     },
     {
       "name": "24h Club: Timekeepers",
@@ -236,9 +198,7 @@
       "chat": "https://discord.gg/fQazeMMkXC",
       "website": "https://www.ensclock.com",
       "logo": "24h-club.png",
-      "csv": [
-        "24h-club.csv"
-      ]
+      "csv": ["24h-club.csv"]
     },
     {
       "name": "100k Club",
@@ -248,9 +208,7 @@
       "chat": "https://discord.gg/EmcSN6EJpY",
       "website": "",
       "logo": "100k-club.png",
-      "csv": [
-        "100k-club.csv"
-      ]
+      "csv": ["100k-club.csv"]
     },
     {
       "name": "999 Club",
@@ -260,9 +218,7 @@
       "chat": "https://discord.gg/aUemBKUuZ5",
       "website": "",
       "logo": "999-club.png",
-      "csv": [
-        "999-club.csv"
-      ]
+      "csv": ["999-club.csv"]
     },
     {
       "name": "Arabic 999 Club",
@@ -272,9 +228,7 @@
       "chat": "https://discord.gg/QNEmFx6DzW",
       "website": "",
       "logo": "arabic-999-club.png",
-      "csv": [
-        "arabic-999-club.csv"
-      ]
+      "csv": ["arabic-999-club.csv"]
     },
     {
       "name": "999-Japan-Simplified",
@@ -284,9 +238,7 @@
       "website": "",
       "chat": "",
       "logo": "999-japan-simplified.png",
-      "csv": [
-        "999-japan-simplified.csv"
-      ]
+      "csv": ["999-japan-simplified.csv"]
     },
     {
       "name": "Arabic 3-Digit Palindromes",
@@ -296,9 +248,7 @@
       "chat": "https://discord.gg/QNEmFx6DzW",
       "website": "",
       "logo": "arabic-3-digit-palindromes.png",
-      "csv": [
-        "arabic-3-digit-palindromes.csv"
-      ]
+      "csv": ["arabic-3-digit-palindromes.csv"]
     },
     {
       "name": "Bengali 999 Club",
@@ -308,9 +258,7 @@
       "website": "-",
       "chat": "https://discord.gg/H5BsbEjh",
       "logo": "bengali-999-club.png",
-      "csv": [
-        "bengali-999-club.csv"
-      ]
+      "csv": ["bengali-999-club.csv"]
     },
     {
       "name": "Binary Club",
@@ -320,9 +268,7 @@
       "chat": "",
       "website": "",
       "logo": "binary-club.png",
-      "csv": [
-        "binary-club.csv"
-      ]
+      "csv": ["binary-club.csv"]
     },
     {
       "name": "Capital Cities",
@@ -332,9 +278,7 @@
       "chat": "",
       "website": "",
       "logo": "capital-cities.png",
-      "csv": [
-        "capital-cities.csv"
-      ]
+      "csv": ["capital-cities.csv"]
     },
     {
       "name": "Countries",
@@ -344,9 +288,7 @@
       "chat": "",
       "website": "",
       "logo": "countries.png",
-      "csv": [
-        "countries.csv"
-      ]
+      "csv": ["countries.csv"]
     },
     {
       "name": "Country Leaders",
@@ -356,9 +298,7 @@
       "chat": "",
       "website": "",
       "logo": "country-leaders.png",
-      "csv": [
-        "country-leaders.csv"
-      ]
+      "csv": ["country-leaders.csv"]
     },
     {
       "name": "Country Codes",
@@ -368,9 +308,7 @@
       "chat": "",
       "website": "https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3",
       "logo": "country-codes.png",
-      "csv": [
-        "country-codes.csv"
-      ]
+      "csv": ["country-codes.csv"]
     },
     {
       "name": "Double Ethmoji",
@@ -380,9 +318,7 @@
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
       "logo": "double-ethmoji.png",
-      "csv": [
-        "double-ethmoji.csv"
-      ]
+      "csv": ["double-ethmoji.csv"]
     },
     {
       "name": "Ethmoji 99 Club",
@@ -392,9 +328,7 @@
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
       "logo": "ethmoji-99-club.png",
-      "csv": [
-        "ethmoji-99-club.csv"
-      ]
+      "csv": ["ethmoji-99-club.csv"]
     },
     {
       "name": "Ethmoji 999 Club",
@@ -404,9 +338,7 @@
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
       "logo": "ethmoji-999-club.png",
-      "csv": [
-        "ethmoji-999-club.csv"
-      ]
+      "csv": ["ethmoji-999-club.csv"]
     },
     {
       "name": "ENS Date Club",
@@ -416,9 +348,7 @@
       "chat": "https://discord.gg/gqAxF7uqUq",
       "website": "",
       "logo": "ens-date-club.png",
-      "csv": [
-        "ens-date-club.csv"
-      ]
+      "csv": ["ens-date-club.csv"]
     },
     {
       "name": "Hyphens-LL",
@@ -428,9 +358,7 @@
       "chat": "https://discord.gg/X2bKAUdb6k",
       "website": "",
       "logo": "hyphens-ll.png",
-      "csv": [
-        "hyphens-ll.csv"
-      ]
+      "csv": ["hyphens-ll.csv"]
     },
     {
       "name": "Hyphens-LN-NL",
@@ -440,9 +368,7 @@
       "chat": "https://discord.gg/X2bKAUdb6k",
       "website": "",
       "logo": "hyphens-ln-nl.png",
-      "csv": [
-        "hyphens-ln-nl.csv"
-      ]
+      "csv": ["hyphens-ln-nl.csv"]
     },
     {
       "name": "Double-Hyphens-LV-LV",
@@ -452,9 +378,7 @@
       "chat": "",
       "website": "",
       "logo": "double-hyphens-lv-lv.png",
-      "csv": [
-        "double-hyphens-lv-lv.csv"
-      ]
+      "csv": ["double-hyphens-lv-lv.csv"]
     },
     {
       "name": "Double-Hyphens-VV-VV",
@@ -464,9 +388,7 @@
       "chat": "",
       "website": "",
       "logo": "double-hyphens-vv-vv.png",
-      "csv": [
-        "double-hyphens-vv-vv.csv"
-      ]
+      "csv": ["double-hyphens-vv-vv.csv"]
     },
     {
       "name": "Hyphens-NN",
@@ -476,9 +398,7 @@
       "chat": "https://discord.gg/X2bKAUdb6k",
       "website": "",
       "logo": "hyphens-nn.png",
-      "csv": [
-        "hyphens-nn.csv"
-      ]
+      "csv": ["hyphens-nn.csv"]
     },
     {
       "name": "Japanese Pokemon Trainer DAO",
@@ -488,9 +408,7 @@
       "chat": "https://discord.gg/nfWYw9mctW",
       "website": "",
       "logo": "japanese-pokemon-trainer-dao.png",
-      "csv": [
-        "japanese-pokemon-trainer-dao.csv"
-      ]
+      "csv": ["japanese-pokemon-trainer-dao.csv"]
     },
     {
       "name": "Mnemonic Club",
@@ -500,9 +418,7 @@
       "chat": "",
       "website": "",
       "logo": "mnemonic-club.png",
-      "csv": [
-        "mnemonic-club.csv"
-      ]
+      "csv": ["mnemonic-club.csv"]
     },
     {
       "name": "Pokemon Trainer DAO",
@@ -512,9 +428,7 @@
       "chat": "https://discord.gg/nfWYw9mctW",
       "website": "",
       "logo": "pokemon-trainer-dao.png",
-      "csv": [
-        "pokemon-trainer-dao.csv"
-      ]
+      "csv": ["pokemon-trainer-dao.csv"]
     },
     {
       "name": "Pre-Punk Club",
@@ -524,9 +438,7 @@
       "chat": "",
       "website": "",
       "logo": "pre-punk-club.png",
-      "csv": [
-        "pre-punk-club.csv"
-      ]
+      "csv": ["pre-punk-club.csv"]
     },
     {
       "name": "Single Ethmoji",
@@ -536,9 +448,7 @@
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
       "logo": "single-ethmoji.png",
-      "csv": [
-        "single-ethmoji.csv"
-      ]
+      "csv": ["single-ethmoji.csv"]
     },
     {
       "name": "Triple Ethmoji",
@@ -548,9 +458,7 @@
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
       "logo": "triple-ethmoji.png",
-      "csv": [
-        "triple-ethmoji.csv"
-      ]
+      "csv": ["triple-ethmoji.csv"]
     },
     {
       "name": "English Nouns",
@@ -560,9 +468,7 @@
       "chat": "",
       "website": "",
       "logo": "english-nouns.png",
-      "csv": [
-        "english-nouns.csv"
-      ]
+      "csv": ["english-nouns.csv"]
     },
     {
       "name": "English Verbs",
@@ -572,9 +478,7 @@
       "chat": "",
       "website": "",
       "logo": "english-verbs.png",
-      "csv": [
-        "english-verbs.csv"
-      ]
+      "csv": ["english-verbs.csv"]
     },
     {
       "name": "English Adjectives",
@@ -584,9 +488,7 @@
       "chat": "",
       "website": "",
       "logo": "english-adjectives.png",
-      "csv": [
-        "english-adjectives.csv"
-      ]
+      "csv": ["english-adjectives.csv"]
     },
     {
       "name": "4 Letter Dictionary",
@@ -596,9 +498,7 @@
       "chat": "",
       "website": "",
       "logo": "4-letter-dictionary.png",
-      "csv": [
-        "4-letter-dictionary.csv"
-      ]
+      "csv": ["4-letter-dictionary.csv"]
     },
     {
       "name": "MMDD Club",
@@ -608,9 +508,7 @@
       "chat": "",
       "website": "",
       "logo": "mmdd-club.png",
-      "csv": [
-        "mmdd-club.csv"
-      ]
+      "csv": ["mmdd-club.csv"]
     },
     {
       "name": "Substances Club",
@@ -620,9 +518,7 @@
       "chat": "",
       "website": "",
       "logo": "",
-      "csv": [
-        "substances-club.csv"
-      ]
+      "csv": ["substances-club.csv"]
     },
     {
       "name": "Male Firstnames",
@@ -632,9 +528,7 @@
       "chat": "",
       "website": "",
       "logo": "male-firstnames.png",
-      "csv": [
-        "male-firstnames.csv"
-      ]
+      "csv": ["male-firstnames.csv"]
     },
     {
       "name": "Female Firstnames",
@@ -644,9 +538,7 @@
       "chat": "",
       "website": "",
       "logo": "female-firstnames.png",
-      "csv": [
-        "female-firstnames.csv"
-      ]
+      "csv": ["female-firstnames.csv"]
     },
     {
       "name": "Official Playstation Console Series",
@@ -656,9 +548,7 @@
       "chat": "",
       "website": "",
       "logo": "playstation-console-series.png",
-      "csv": [
-        "playstation-console-series.csv"
-      ]
+      "csv": ["playstation-console-series.csv"]
     },
     {
       "name": "Harry Potter",
@@ -668,9 +558,7 @@
       "website": "",
       "chat": "",
       "logo": "harry-potter.png",
-      "csv": [
-        "harry-potter.csv"
-      ]
+      "csv": ["harry-potter.csv"]
     },
     {
       "name": "Tolkien",
@@ -680,9 +568,7 @@
       "website": "",
       "chat": "",
       "logo": "tolkien.png",
-      "csv": [
-        "tolkien.csv"
-      ]
+      "csv": ["tolkien.csv"]
     },
     {
       "name": "Arabic 10k Club",
@@ -692,9 +578,7 @@
       "chat": "https://discord.gg/QNEmFx6DzW",
       "website": "",
       "logo": "arabic-10k-club.png",
-      "csv": [
-        "arabic-10k-club.csv"
-      ]
+      "csv": ["arabic-10k-club.csv"]
     },
     {
       "name": "Naruto Names",
@@ -704,9 +588,7 @@
       "chat": "",
       "website": "",
       "logo": "naruto-names.png",
-      "csv": [
-        "naruto-names.csv"
-      ]
+      "csv": ["naruto-names.csv"]
     },
     {
       "name": "6 Digit Palindromes",
@@ -716,9 +598,7 @@
       "chat": "",
       "website": "",
       "logo": "6-digit-palindromes.png",
-      "csv": [
-        "6-digit-palindromes.csv"
-      ]
+      "csv": ["6-digit-palindromes.csv"]
     },
     {
       "name": "Gen1-Pokemon",
@@ -728,9 +608,7 @@
       "website": "N/A",
       "chat": "https://discord.com/invite/nfWYw9mctW",
       "logo": "gen1-pokemon.png",
-      "csv": [
-        "gen1-pokemon.csv"
-      ]
+      "csv": ["gen1-pokemon.csv"]
     },
     {
       "name": "GOT Houses Club",
@@ -740,9 +618,7 @@
       "website": "",
       "chat": "",
       "logo": "",
-      "csv": [
-        "got-houses-club.csv"
-      ]
+      "csv": ["got-houses-club.csv"]
     },
     {
       "name": "Poker Club",
@@ -752,9 +628,7 @@
       "website": "",
       "chat": "",
       "logo": "poker-club.png",
-      "csv": [
-        "poker-club.csv"
-      ]
+      "csv": ["poker-club.csv"]
     },
     {
       "name": "Marvel Club",
@@ -764,9 +638,7 @@
       "website": "",
       "chat": "",
       "logo": "marvel-club.png",
-      "csv": [
-        "marvel-club.csv"
-      ]
+      "csv": ["marvel-club.csv"]
     },
     {
       "name": "Tamil 999 Club",
@@ -776,9 +648,7 @@
       "website": "https://sin999.club",
       "chat": "https://discord.gg/hEKP9a7G",
       "logo": "tamil-999-club.png",
-      "csv": [
-        "tamil-999-club.csv"
-      ]
+      "csv": ["tamil-999-club.csv"]
     },
     {
       "name": "Telugu 999 Club",
@@ -788,9 +658,7 @@
       "website": "https://sin999.club",
       "chat": "https://discord.gg/hEKP9a7G",
       "logo": "telugu-999-club.png",
-      "csv": [
-        "telugu-999-club.csv"
-      ]
+      "csv": ["telugu-999-club.csv"]
     },
     {
       "name": "Kannada 999 Club",
@@ -800,9 +668,7 @@
       "website": "https://sin999.club",
       "chat": "https://discord.gg/hEKP9a7G",
       "logo": "kannada-999-club.png",
-      "csv": [
-        "kannada-999-club.csv"
-      ]
+      "csv": ["kannada-999-club.csv"]
     },
     {
       "name": "Malayalam 999 Club",
@@ -812,9 +678,7 @@
       "website": "https://sin999.club",
       "chat": "https://discord.gg/hEKP9a7G",
       "logo": "malayalam-999-club.png",
-      "csv": [
-        "malayalam-999-club.csv"
-      ]
+      "csv": ["malayalam-999-club.csv"]
     },
     {
       "name": "5 Digit James Bond Club",
@@ -824,9 +688,7 @@
       "chat": "",
       "website": "",
       "logo": "5-digit-james-bond.png",
-      "csv": [
-        "5-digit-james-bond.csv"
-      ]
+      "csv": ["5-digit-james-bond.csv"]
     },
     {
       "name": "NCAA",
@@ -836,9 +698,7 @@
       "chat": "",
       "website": "",
       "logo": "",
-      "csv": [
-        "ncaa.csv"
-      ]
+      "csv": ["ncaa.csv"]
     },
     {
       "name": "Nasdaq ens index",
@@ -848,9 +708,7 @@
       "chat": "https://discord.gg/5J9xE2X7XH",
       "website": "",
       "logo": "nasdaq-ens-index.png",
-      "csv": [
-        "nasdaq-ens-index.csv"
-      ]
+      "csv": ["nasdaq-ens-index.csv"]
     },
     {
       "name": "360 Degrees Club",
@@ -860,9 +718,7 @@
       "website": "",
       "chat": "https://discord.gg/p3mVvzePuB",
       "logo": "360-degrees-club.png",
-      "csv": [
-        "360-degrees-club.csv"
-      ]
+      "csv": ["360-degrees-club.csv"]
     },
     {
       "name": "999 CN Capitalized Club",
@@ -872,9 +728,7 @@
       "website": "",
       "chat": "https://discord.gg/82fuK42RyV",
       "logo": "999-cn-capitalized-club.png",
-      "csv": [
-        "999-cn-capitalized-club.csv"
-      ]
+      "csv": ["999-cn-capitalized-club.csv"]
     },
     {
       "name": "999 CN Club",
@@ -884,9 +738,7 @@
       "website": "",
       "chat": "https://discord.gg/EGQy6zmR",
       "logo": "999-cn-club.png",
-      "csv": [
-        "999-cn-club.csv"
-      ]
+      "csv": ["999-cn-club.csv"]
     },
     {
       "name": "3 Digits Hebrew Club",
@@ -896,9 +748,7 @@
       "website": "-",
       "chat": "https://discord.com/invite/GrEDQNKt4M",
       "logo": "3-digits-hebrew-club.png",
-      "csv": [
-        "3-digits-hebrew-club.csv"
-      ]
+      "csv": ["3-digits-hebrew-club.csv"]
     },
     {
       "name": "BIP39 Club",
@@ -908,9 +758,7 @@
       "website": "https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt",
       "chat": "",
       "logo": "bip39-club.png",
-      "csv": [
-        "bip39-club.csv"
-      ]
+      "csv": ["bip39-club.csv"]
     },
     {
       "name": "Palindrome cities",
@@ -920,9 +768,7 @@
       "website": "",
       "chat": "",
       "logo": "palindrome-cities.png",
-      "csv": [
-        "palindrome-cities.csv"
-      ]
+      "csv": ["palindrome-cities.csv"]
     },
     {
       "name": "Hindi 999 Club",
@@ -932,9 +778,7 @@
       "website": "",
       "chat": "https://discord.gg/HeyxC5nmAe",
       "logo": "hindi-999-club.png",
-      "csv": [
-        "hindi-999-club.csv"
-      ]
+      "csv": ["hindi-999-club.csv"]
     },
     {
       "name": "Hindi 10K Club",
@@ -944,9 +788,7 @@
       "website": "",
       "chat": "http://discord.gg/h2UKStxsTS",
       "logo": "hindi-10k-club.png",
-      "csv": [
-        "hindi-10k-club.csv"
-      ]
+      "csv": ["hindi-10k-club.csv"]
     },
     {
       "name": "Korean 999 Club",
@@ -956,9 +798,7 @@
       "website": "",
       "chat": "",
       "logo": "korean-999-club.png",
-      "csv": [
-        "korean-999-club.csv"
-      ]
+      "csv": ["korean-999-club.csv"]
     },
     {
       "name": "Roman Numerals 969 Club",
@@ -968,9 +808,7 @@
       "website": "",
       "chat": "",
       "logo": "roman-numerals-969-club.png",
-      "csv": [
-        "roman-numerals-969-club.csv"
-      ]
+      "csv": ["roman-numerals-969-club.csv"]
     },
     {
       "name": "Thai 999 Club",
@@ -980,9 +818,7 @@
       "website": "",
       "chat": "",
       "logo": "thai-999-club.png",
-      "csv": [
-        "thai-999-club.csv"
-      ]
+      "csv": ["thai-999-club.csv"]
     },
     {
       "name": "CN 10k Club",
@@ -992,9 +828,7 @@
       "website": "",
       "chat": "https://discord.gg/EGQy6zmR",
       "logo": "cn-10k-club.png",
-      "csv": [
-        "cn-10k-club.csv"
-      ]
+      "csv": ["cn-10k-club.csv"]
     },
     {
       "name": "Bengali 999 Club",
@@ -1004,9 +838,7 @@
       "website": "",
       "chat": "https://discord.gg/H5BsbEjh",
       "logo": "bengali-999-club.png",
-      "csv": [
-        "bengali-999-club.csv"
-      ]
+      "csv": ["bengali-999-club.csv"]
     },
     {
       "name": "Traditional CN 999 Club",
@@ -1016,9 +848,7 @@
       "website": "",
       "chat": "",
       "logo": "traditional-cn-999-club.png",
-      "csv": [
-        "traditional-cn-999-club.csv"
-      ]
+      "csv": ["traditional-cn-999-club.csv"]
     },
     {
       "name": "Persian 999 Club",
@@ -1028,9 +858,7 @@
       "website": "",
       "chat": "https://discord.gg/8u2v2wS2",
       "logo": "persian-999-club.png",
-      "csv": [
-        "persian-999-club.csv"
-      ]
+      "csv": ["persian-999-club.csv"]
     },
     {
       "name": "Jurassic ENS",
@@ -1040,9 +868,7 @@
       "website": "",
       "chat": "",
       "logo": "jurassic-ens.png",
-      "csv": [
-        "jurassic-ens.csv"
-      ]
+      "csv": ["jurassic-ens.csv"]
     },
     {
       "name": "languages of the world",
@@ -1052,9 +878,7 @@
       "website": "",
       "chat": "",
       "logo": "languages-of-the-world.png",
-      "csv": [
-        "languages-of-the-world.csv"
-      ]
+      "csv": ["languages-of-the-world.csv"]
     },
     {
       "name": "The Cents Club",
@@ -1064,9 +888,7 @@
       "website": "",
       "chat": "https://discord.gg/YbNGdmCNwT",
       "logo": "the-cents-club.png",
-      "csv": [
-        "the-cents-club.csv"
-      ]
+      "csv": ["the-cents-club.csv"]
     },
     {
       "name": "365 Club",
@@ -1076,9 +898,7 @@
       "website": "",
       "chat": "",
       "logo": "365-club.png",
-      "csv": [
-        "365-club.csv"
-      ]
+      "csv": ["365-club.csv"]
     },
     {
       "name": "999 Japan Official",
@@ -1088,9 +908,7 @@
       "website": "",
       "chat": "",
       "logo": "999-japan-official.png",
-      "csv": [
-        "999-japan-official.csv"
-      ]
+      "csv": ["999-japan-official.csv"]
     },
     {
       "name": "PsalmsClub",
@@ -1100,9 +918,7 @@
       "website": "",
       "chat": "https://discord.gg/43hTTVFzSC",
       "logo": "psalms-club.png",
-      "csv": [
-        "psalms-club.csv"
-      ]
+      "csv": ["psalms-club.csv"]
     },
     {
       "name": "3 Letter Greek Alphabet",
@@ -1112,9 +928,7 @@
       "website": "",
       "chat": "",
       "logo": "3-letter-greek-alphabet.png",
-      "csv": [
-        "3-letter-greek-alphabet.csv"
-      ]
+      "csv": ["3-letter-greek-alphabet.csv"]
     },
     {
       "name": "ENS Full Date Club",
@@ -1123,9 +937,7 @@
       "twitter": "EnsFullDateClub",
       "chat": "https://discord.gg/FnYyqDkmRX",
       "logo": "ens-full-date-club.png",
-      "csv": [
-        "ens-full-date-club.csv"
-      ]
+      "csv": ["ens-full-date-club.csv"]
     },
     {
       "name": "24ClockTimes",
@@ -1135,9 +947,7 @@
       "website": "",
       "chat": "https://discord.gg/eWEdvcT5SS",
       "logo": "24-clock-times.png",
-      "csv": [
-        "24-clock-times.csv"
-      ]
+      "csv": ["24-clock-times.csv"]
     },
     {
       "name": "Kanye Ens Club",
@@ -1147,9 +957,7 @@
       "website": "",
       "chat": "",
       "logo": "kanye-ens-club.png",
-      "csv": [
-        "kanye-ens-club.csv"
-      ]
+      "csv": ["kanye-ens-club.csv"]
     },
     {
       "name": "FlagCountry Club",
@@ -1159,9 +967,7 @@
       "website": "",
       "chat": "",
       "logo": "flagcountry-club.png",
-      "csv": [
-        "flagcountry-club.csv"
-      ]
+      "csv": ["flagcountry-club.csv"]
     },
     {
       "name": "Single Digit Multiplication",
@@ -1171,9 +977,7 @@
       "chat": "https://discord.gg/5J9xE2X7XH",
       "website": "discord.gg/VSFUAYh9dG",
       "logo": "single-digit-multiplication.png",
-      "csv": [
-        "single-digit-multiplication.csv"
-      ]
+      "csv": ["single-digit-multiplication.csv"]
     },
     {
       "name": "Punjabi 999 Club",
@@ -1183,9 +987,7 @@
       "website": "",
       "chat": "",
       "logo": "punjabi-999-club.png",
-      "csv": [
-        "punjabi-999-club.csv"
-      ]
+      "csv": ["punjabi-999-club.csv"]
     },
     {
       "name": "Months",
@@ -1194,9 +996,7 @@
       "website": "",
       "chat": "",
       "logo": "",
-      "csv": [
-        "months.csv"
-      ]
+      "csv": ["months.csv"]
     },
     {
       "name": "999 Club ENS Chinese",
@@ -1206,9 +1006,7 @@
       "website": "",
       "chat": "https://discord.gg/sazTKfrGYY",
       "logo": "999-club-ens-chinese.png",
-      "csv": [
-        "999-club-ens-chinese.csv"
-      ]
+      "csv": ["999-club-ens-chinese.csv"]
     },
     {
       "name": "Braille 999 Club",
@@ -1218,9 +1016,7 @@
       "chat": "",
       "website": "",
       "logo": "braille-999-club.png",
-      "csv": [
-        "braille-999-club.csv"
-      ]
+      "csv": ["braille-999-club.csv"]
     },
     {
       "name": "3L Months",
@@ -1230,9 +1026,7 @@
       "chat": "",
       "website": "",
       "logo": "3l-months.png",
-      "csv": [
-        "3l-months.csv"
-      ]
+      "csv": ["3l-months.csv"]
     },
     {
       "name": "99 Temperature Club",
@@ -1242,9 +1036,7 @@
       "website": "N/A",
       "chat": "N/A",
       "logo": "99-temperature-club.png",
-      "csv": [
-        "99-temperature-club.csv"
-      ]
+      "csv": ["99-temperature-club.csv"]
     },
     {
       "name": "Hyphens-NNN",
@@ -1254,9 +1046,7 @@
       "chat": "https://discord.com/channels/970489721602080798/970632628652900372",
       "website": "N/A",
       "logo": "hyphens-nnn.png",
-      "csv": [
-        "hyphens-nnn.csv"
-      ]
+      "csv": ["hyphens-nnn.csv"]
     },
     {
       "name": "999th Club",
@@ -1266,9 +1056,7 @@
       "chat": "https://discord.gg/HkWudGJr6m",
       "website": "",
       "logo": "999th-club.png",
-      "csv": [
-        "999th-club.csv"
-      ]
+      "csv": ["999th-club.csv"]
     },
     {
       "name": "AUS 999 Club",
@@ -1278,9 +1066,7 @@
       "website": "",
       "chat": "https://discord.com/invite/QqSPHBSu",
       "logo": "aus-999-club.png",
-      "csv": [
-        "aus-999-club.csv"
-      ]
+      "csv": ["aus-999-club.csv"]
     },
     {
       "name": "Skateboard Tricks",
@@ -1290,9 +1076,7 @@
       "chat": "",
       "website": "",
       "logo": "skateboard-tricks.png",
-      "csv": [
-        "skateboard-tricks.csv"
-      ]
+      "csv": ["skateboard-tricks.csv"]
     },
     {
       "name": "US 999 Club",
@@ -1302,9 +1086,7 @@
       "website": "",
       "chat": "https://discord.gg/NaTzeU8PNj",
       "logo": "us-999-club.png",
-      "csv": [
-        "us-999-club.csv"
-      ]
+      "csv": ["us-999-club.csv"]
     },
     {
       "name": "DBZ-Characters",
@@ -1314,9 +1096,7 @@
       "website": "",
       "chat": "",
       "logo": "dbz-characters.png",
-      "csv": [
-        "dbz-characters.csv"
-      ]
+      "csv": ["dbz-characters.csv"]
     },
     {
       "name": "Ethmoji 0️x10k Club",
@@ -1326,9 +1106,7 @@
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
       "logo": "ethmoji-0x10k-club.png",
-      "csv": [
-        "ethmoji-0x10k-club.csv"
-      ]
+      "csv": ["ethmoji-0x10k-club.csv"]
     },
     {
       "name": "Ethmoji ID99 Club",
@@ -1338,9 +1116,7 @@
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
       "logo": "ethmoji-id-99-club.png",
-      "csv": [
-        "ethmoji-id-99-club.csv"
-      ]
+      "csv": ["ethmoji-id-99-club.csv"]
     },
     {
       "name": "Ethmoji 0x999 Club",
@@ -1350,9 +1126,7 @@
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
       "logo": "ethmoji-0x999-club.png",
-      "csv": [
-        "ethmoji-0x999-club.csv"
-      ]
+      "csv": ["ethmoji-0x999-club.csv"]
     },
     {
       "name": "Ethmoji 0x99 Club",
@@ -1362,9 +1136,7 @@
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
       "logo": "ethmoji-0x99-club.png",
-      "csv": [
-        "ethmoji-0x99-club.csv"
-      ]
+      "csv": ["ethmoji-0x99-club.csv"]
     },
     {
       "name": "999 Bubble Club",
@@ -1374,9 +1146,7 @@
       "chat": "",
       "website": "",
       "logo": "999-bubble-club.png",
-      "csv": [
-        "999-bubble-club.csv"
-      ]
+      "csv": ["999-bubble-club.csv"]
     },
     {
       "name": "Spanish Nouns",
@@ -1386,9 +1156,7 @@
       "chat": "",
       "website": "",
       "logo": "spanish-nouns.png",
-      "csv": [
-        "spanish-nouns.csv"
-      ]
+      "csv": ["spanish-nouns.csv"]
     },
     {
       "name": "Spanish Verbs",
@@ -1398,9 +1166,7 @@
       "chat": "",
       "website": "",
       "logo": "spanish-verbs.png",
-      "csv": [
-        "spanish-verbs.csv"
-      ]
+      "csv": ["spanish-verbs.csv"]
     },
     {
       "name": "English Animals",
@@ -1410,9 +1176,7 @@
       "chat": "",
       "website": "",
       "logo": "english-animals.png",
-      "csv": [
-        "english-animals.csv"
-      ]
+      "csv": ["english-animals.csv"]
     },
     {
       "name": "Spanish Animals",
@@ -1422,9 +1186,7 @@
       "chat": "",
       "website": "",
       "logo": "spanish-animals.png",
-      "csv": [
-        "spanish-animals.csv"
-      ]
+      "csv": ["spanish-animals.csv"]
     },
     {
       "name": "Male Firstname Arabic club",
@@ -1434,9 +1196,7 @@
       "website": "",
       "chat": "",
       "logo": "male-firstname-arabic-club.png",
-      "csv": [
-        "male-firstname-arabic-club.csv"
-      ]
+      "csv": ["male-firstname-arabic-club.csv"]
     },
     {
       "name": "Ethmoji 10k Club",
@@ -1446,9 +1206,7 @@
       "website": "",
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "logo": "ethmoji-10k-club.png",
-      "csv": [
-        "ethmoji-10k-club.csv"
-      ]
+      "csv": ["ethmoji-10k-club.csv"]
     },
     {
       "name": "Surnames",
@@ -1458,9 +1216,7 @@
       "website": "",
       "chat": "",
       "logo": "surnames.png",
-      "csv": [
-        "surnames.csv"
-      ]
+      "csv": ["surnames.csv"]
     },
     {
       "name": "Pre-Punk 1k",
@@ -1470,9 +1226,7 @@
       "website": "https://pre-punk.club/",
       "chat": "https://discord.gg/XSudfGtVCx",
       "logo": "pre-punk-1k.png",
-      "csv": [
-        "pre-punk-1k.csv"
-      ]
+      "csv": ["pre-punk-1k.csv"]
     },
     {
       "name": "Pre-Punk 10k",
@@ -1482,9 +1236,7 @@
       "website": "https://pre-punk.club/",
       "chat": "https://discord.gg/XSudfGtVCx",
       "logo": "pre-punk-10k.png",
-      "csv": [
-        "pre-punk-10k.csv"
-      ]
+      "csv": ["pre-punk-10k.csv"]
     },
     {
       "name": "5 Letter Palindromes",
@@ -1494,9 +1246,7 @@
       "chat": "",
       "website": "",
       "logo": "5-letter-palindromes.png",
-      "csv": [
-        "5-letter-palindromes.csv"
-      ]
+      "csv": ["5-letter-palindromes.csv"]
     },
     {
       "name": "4 Letter Palindromes",
@@ -1506,9 +1256,7 @@
       "chat": "",
       "website": "",
       "logo": "4-letter-palindromes.png",
-      "csv": [
-        "4-letter-palindromes.csv"
-      ]
+      "csv": ["4-letter-palindromes.csv"]
     },
     {
       "name": "6 Letter Palindromes",
@@ -1518,9 +1266,7 @@
       "chat": "",
       "website": "",
       "logo": "6-letter-palindromes.png",
-      "csv": [
-        "6-letter-palindromes.csv"
-      ]
+      "csv": ["6-letter-palindromes.csv"]
     },
     {
       "name": "Base Single Emojis",
@@ -1530,9 +1276,7 @@
       "chat": "discord.gg/ethmoji",
       "website": "",
       "logo": "base-single-ethmoji.png",
-      "csv": [
-        "base-single-ethmoji.csv"
-      ]
+      "csv": ["base-single-ethmoji.csv"]
     },
     {
       "name": "Negative 2 Digits",
@@ -1542,9 +1286,37 @@
       "website": "",
       "chat": "",
       "logo": "-2dig.png",
-      "csv": [
-        "-2dig.csv"
-      ]
+      "csv": ["-2dig.csv"]
+    },
+    {
+      "name": "Ancient Tamil 999",
+      "slug": "ancient-tamil-999",
+      "description": "999 digits of the Oldest living language on earth ~ ancient Tamizh consists of 3 ,4 5 chars.",
+      "twitter": "Tamil999digits",
+      "chat": "https://discord.com/invite/tXR2zY2a",
+      "website": "",
+      "logo": "ancient-tamil-999.png",
+      "csv": ["ancient-tamil-999.csv"]
+    },
+    {
+      "name": "Top 3000 Surnames Globally",
+      "slug": "surnames-top3000-globally",
+      "description": "Globally Top 3000 Surnames",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "surnames-top3000-globally.png",
+      "csv": ["surnames-top3000-globally.csv"]
+    },
+    {
+      "name": "Top 3000 Forenames Globally",
+      "slug": "forenames-top3000-globally",
+      "description": "Globally Top 3000 Forenames",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "forenames-top3000-globally.png",
+      "csv": ["forenames-top3000-globally.csv"]
     }
   ]
 }
