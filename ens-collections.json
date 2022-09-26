@@ -1341,6 +1341,16 @@
       "csv": [
         "the-one-hundred.csv"
       ]
-    }
+    },
+		{
+			"name": "OG Digits",
+			"slug": "og-digits",
+			"description": "All the digit names registered in 2017",
+			"twitter": "https://twitter.com/ogdigitsclub",
+			"chat": "",
+			"website": "https://ogdigits.club/",
+			"logo": "og-digits.png",
+			"csv": ["og-digits.csv"]
+		}
   ]
 }
