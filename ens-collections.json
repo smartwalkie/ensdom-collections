@@ -1351,6 +1351,75 @@
 			"website": "https://ogdigits.club/",
 			"logo": "og-digits.png",
 			"csv": ["og-digits.csv"]
+		},{
+			"name": "Spanish Adjectives",
+			"slug": "spanish-adjectives",
+			"description": "Adjetivos españoles.",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "spanish-adjectives.png",
+			"csv": ["spanish-adjectives.csv"]
+		},
+		{
+			"name": "Spanish Female First Names",
+			"slug": "spanish-female-firstnames",
+			"description": "Primero nombres femeninos españoles.",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "spanish-female-firstnames.png",
+			"csv": ["spanish-female-firstnames.csv"]
+		},
+		{
+			"name": "Spanish Male First Names",
+			"slug": "spanish-male-firstnames",
+			"description": "Primero nombres masculino españoles.",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "spanish-male-firstnames.png",
+			"csv": ["spanish-male-firstnames.csv"]
+		},
+		{
+			"name": "Spanish Months and Days",
+			"slug": "spanish-months-days",
+			"description": "Meses y días españoles",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "spanish-months-days.png",
+			"csv": ["spanish-months-days.csv"]
+		},
+		{
+			"name": "English Goddesses",
+			"slug": "english-goddesses",
+			"description": "",
+			"twitter": "https://twitter.com/BTCbuddah",
+			"chat": "",
+			"website": "",
+			"logo": "english-goddesses.png",
+			"csv": ["english-goddesses.csv"]
+		},
+		{
+			"name": "English Dinosaurs",
+			"slug": "english-dinosaurs",
+			"description": "",
+			"twitter": "https://twitter.com/BTCbuddah",
+			"chat": "",
+			"website": "",
+			"logo": "english-dinosaurs.png",
+			"csv": ["english-dinosaurs.csv"]
+		},
+		{
+			"name": "Spanish Dinosaurs",
+			"slug": "spanish-dinosaurs",
+			"description": "",
+			"twitter": "https://twitter.com/BTCbuddah",
+			"chat": "",
+			"website": "",
+			"logo": "spanish-dinosaurs.png",
+			"csv": ["spanish-dinosaurs.csv"]
 		}
   ]
 }
