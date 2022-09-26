@@ -1317,6 +1317,18 @@
       "website": "",
       "logo": "forenames-top3000-globally.png",
       "csv": ["forenames-top3000-globally.csv"]
+    },
+    {
+      "name": "7 Digits Palindromes",
+      "slug": "7-digits-palindromes",
+      "description": "Palindromes with 7 digits.",
+      "twitter": "7DPalindromes",
+      "chat": "",
+      "website": "",
+      "logo": "7-digits-palindromes.png",
+      "csv": [
+        "7-digits-palindromes.csv"
+      ]
     }
   ]
 }
