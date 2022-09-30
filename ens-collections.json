@@ -1537,6 +1537,15 @@
       "chat": "",
       "logo": "8d-palindromes-000-tail.png",
       "csv": ["8d-palindromes-000-tail.csv"]
+    },{
+      "name": "0000 head club",
+      "slug": "0000-head-club",
+      "description": "Names with 6 & 7 digits starting with 0000",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "0000-head-club.png",
+      "csv": ["0000-head-club.csv"]
     }
   ]
 }
