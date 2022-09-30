@@ -1497,6 +1497,46 @@
       "website": "",
       "logo": "8-digits-palindromes.png",
       "csv": ["8-digits-palindromes.csv"]
+    },
+    {
+      "name": "8D Palindromes 00 head",
+      "slug": "8d-palindromes-00-head",
+      "description": "8 digits palindromes start with 00",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "8d-palindromes-00-head.png",
+      "csv": ["8d-palindromes-00-head.csv"]
+    },
+    {
+      "name": "8D Palindromes 000 head",
+      "slug": "8d-palindromes-000-head",
+      "description": "8 digits palindromes start with 000",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "8d-palindromes-000-head.png",
+      "csv": ["8d-palindromes-000-head.csv"]
+    },
+    {
+      "name": "8D Palindromes 00 tail",
+      "slug": "8d-palindromes-00-tail",
+      "description": "8 digits palindromes end with 00",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "8d-palindromes-00-tail.png",
+      "csv": ["8d-palindromes-00-tail.csv"]
+    },
+    {
+      "name": "8D Palindromes 000 tail",
+      "slug": "8d-palindromes-000-tail",
+      "description": "8 digits palindromes end with 000",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "8d-palindromes-000-tail.png",
+      "csv": ["8d-palindromes-000-tail.csv"]
     }
   ]
 }
