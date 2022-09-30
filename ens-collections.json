@@ -1326,9 +1326,7 @@
       "chat": "",
       "website": "",
       "logo": "7-digits-palindromes.png",
-      "csv": [
-        "7-digits-palindromes.csv"
-      ]
+      "csv": ["7-digits-palindromes.csv"]
     },
     {
       "name": "The OneHundred",
@@ -1338,89 +1336,88 @@
       "website": "",
       "chat": "",
       "logo": "the-one-hundred.png",
-      "csv": [
-        "the-one-hundred.csv"
-      ]
+      "csv": ["the-one-hundred.csv"]
     },
-		{
-			"name": "OG Digits",
-			"slug": "og-digits",
-			"description": "All the digit names registered in 2017",
-			"twitter": "https://twitter.com/ogdigitsclub",
-			"chat": "",
-			"website": "https://ogdigits.club/",
-			"logo": "og-digits.png",
-			"csv": ["og-digits.csv"]
-		},{
-			"name": "Spanish Adjectives",
-			"slug": "spanish-adjectives",
-			"description": "Adjetivos españoles.",
-			"twitter": "https://twitter.com/EnsSpanishW3W",
-			"chat": "",
-			"website": "",
-			"logo": "spanish-adjectives.png",
-			"csv": ["spanish-adjectives.csv"]
-		},
-		{
-			"name": "Spanish Female First Names",
-			"slug": "spanish-female-firstnames",
-			"description": "Primero nombres femeninos españoles.",
-			"twitter": "https://twitter.com/EnsSpanishW3W",
-			"chat": "",
-			"website": "",
-			"logo": "spanish-female-firstnames.png",
-			"csv": ["spanish-female-firstnames.csv"]
-		},
-		{
-			"name": "Spanish Male First Names",
-			"slug": "spanish-male-firstnames",
-			"description": "Primero nombres masculino españoles.",
-			"twitter": "https://twitter.com/EnsSpanishW3W",
-			"chat": "",
-			"website": "",
-			"logo": "spanish-male-firstnames.png",
-			"csv": ["spanish-male-firstnames.csv"]
-		},
-		{
-			"name": "Spanish Months and Days",
-			"slug": "spanish-months-days",
-			"description": "Meses y días españoles",
-			"twitter": "https://twitter.com/EnsSpanishW3W",
-			"chat": "",
-			"website": "",
-			"logo": "spanish-months-days.png",
-			"csv": ["spanish-months-days.csv"]
-		},
-		{
-			"name": "English Goddesses",
-			"slug": "english-goddesses",
-			"description": "",
-			"twitter": "https://twitter.com/BTCbuddah",
-			"chat": "",
-			"website": "",
-			"logo": "english-goddesses.png",
-			"csv": ["english-goddesses.csv"]
-		},
-		{
-			"name": "English Dinosaurs",
-			"slug": "english-dinosaurs",
-			"description": "",
-			"twitter": "https://twitter.com/BTCbuddah",
-			"chat": "",
-			"website": "",
-			"logo": "english-dinosaurs.png",
-			"csv": ["english-dinosaurs.csv"]
-		},
-		{
-			"name": "Spanish Dinosaurs",
-			"slug": "spanish-dinosaurs",
-			"description": "",
-			"twitter": "https://twitter.com/BTCbuddah",
-			"chat": "",
-			"website": "",
-			"logo": "spanish-dinosaurs.png",
-			"csv": ["spanish-dinosaurs.csv"]
-		},
+    {
+      "name": "OG Digits",
+      "slug": "og-digits",
+      "description": "All the digit names registered in 2017",
+      "twitter": "https://twitter.com/ogdigitsclub",
+      "chat": "",
+      "website": "https://ogdigits.club/",
+      "logo": "og-digits.png",
+      "csv": ["og-digits.csv"]
+    },
+    {
+      "name": "Spanish Adjectives",
+      "slug": "spanish-adjectives",
+      "description": "Adjetivos españoles.",
+      "twitter": "https://twitter.com/EnsSpanishW3W",
+      "chat": "",
+      "website": "",
+      "logo": "spanish-adjectives.png",
+      "csv": ["spanish-adjectives.csv"]
+    },
+    {
+      "name": "Spanish Female First Names",
+      "slug": "spanish-female-firstnames",
+      "description": "Primero nombres femeninos españoles.",
+      "twitter": "https://twitter.com/EnsSpanishW3W",
+      "chat": "",
+      "website": "",
+      "logo": "spanish-female-firstnames.png",
+      "csv": ["spanish-female-firstnames.csv"]
+    },
+    {
+      "name": "Spanish Male First Names",
+      "slug": "spanish-male-firstnames",
+      "description": "Primero nombres masculino españoles.",
+      "twitter": "https://twitter.com/EnsSpanishW3W",
+      "chat": "",
+      "website": "",
+      "logo": "spanish-male-firstnames.png",
+      "csv": ["spanish-male-firstnames.csv"]
+    },
+    {
+      "name": "Spanish Months and Days",
+      "slug": "spanish-months-days",
+      "description": "Meses y días españoles",
+      "twitter": "https://twitter.com/EnsSpanishW3W",
+      "chat": "",
+      "website": "",
+      "logo": "spanish-months-days.png",
+      "csv": ["spanish-months-days.csv"]
+    },
+    {
+      "name": "English Goddesses",
+      "slug": "english-goddesses",
+      "description": "",
+      "twitter": "https://twitter.com/BTCbuddah",
+      "chat": "",
+      "website": "",
+      "logo": "english-goddesses.png",
+      "csv": ["english-goddesses.csv"]
+    },
+    {
+      "name": "English Dinosaurs",
+      "slug": "english-dinosaurs",
+      "description": "",
+      "twitter": "https://twitter.com/BTCbuddah",
+      "chat": "",
+      "website": "",
+      "logo": "english-dinosaurs.png",
+      "csv": ["english-dinosaurs.csv"]
+    },
+    {
+      "name": "Spanish Dinosaurs",
+      "slug": "spanish-dinosaurs",
+      "description": "",
+      "twitter": "https://twitter.com/BTCbuddah",
+      "chat": "",
+      "website": "",
+      "logo": "spanish-dinosaurs.png",
+      "csv": ["spanish-dinosaurs.csv"]
+    },
     {
       "name": "_99 Club",
       "slug": "_99-club",
@@ -1429,9 +1426,7 @@
       "website": "https://linktr.ee/underscore_ens",
       "chat": "https://discord.gg/W5YP3UKSkW",
       "logo": "_99-club.png",
-      "csv": [
-        "_99-club.csv"
-	  ]
+      "csv": ["_99-club.csv"]
     },
     {
       "name": "_999 Club",
@@ -1441,9 +1436,7 @@
       "website": "https://linktr.ee/underscore_ens",
       "chat": "https://discord.gg/W5YP3UKSkW",
       "logo": "_999-club.png",
-      "csv": [
-        "_999-club.csv"
-	  ]
+      "csv": ["_999-club.csv"]
     },
     {
       "name": "_10k Club",
@@ -1453,9 +1446,57 @@
       "website": "https://linktr.ee/underscore_ens",
       "chat": "https://discord.gg/W5YP3UKSkW",
       "logo": "_10k-club.png",
-      "csv": [
-        "_10k-club.csv"
-	  ]
+      "csv": ["_10k-club.csv"]
+    },
+    {
+      "name": "7D Palindromes 0 head",
+      "slug": "7d-palindromes-0-head",
+      "description": "7 digits palindromes start with 0",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "7d-palindromes-0-head.png",
+      "csv": ["7d-palindromes-0-head.csv"]
+    },
+    {
+      "name": "7D Palindromes 00 head",
+      "slug": "7d-palindromes-00-head",
+      "description": "7 digits palindromes start with 00",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "7d-palindromes-00-head.png",
+      "csv": ["7d-palindromes-00-head.csv"]
+    },
+    {
+      "name": "7D Palindromes 0 tail",
+      "slug": "7d-palindromes-0-tail",
+      "description": "7 digits palindromes end with 0",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "7d-palindromes-0-tail.png",
+      "csv": ["7d-palindromes-0-tail.csv"]
+    },
+    {
+      "name": "7D Palindromes 00 tail",
+      "slug": "7d-palindromes-00-tail",
+      "description": "7 digits palindromes end with 00",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "7d-palindromes-00-tail.png",
+      "csv": ["7d-palindromes-00-tail.csv"]
+    },
+    {
+      "name": "8 Digits Palindromes",
+      "slug": "8-digits-palindromes",
+      "description": "Palindromes with 8 digits.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "8-digits-palindromes.png",
+      "csv": ["8-digits-palindromes.csv"]
     }
   ]
 }
