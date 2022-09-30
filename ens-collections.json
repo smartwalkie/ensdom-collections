@@ -1687,6 +1687,126 @@
       "chat": "",
       "logo": "8d-aabbccdd.png",
       "csv": ["8d-aabbccdd.csv"]
+    },
+    {
+      "name": "AABB club",
+      "slug": "aabb-club",
+      "description": "4-letter names with a pair of identical alphabets",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "aabb-club.png",
+      "csv": ["aabb-club.csv"]
+    },
+    {
+      "name": "123+321 Club",
+      "slug": "123-321-club",
+      "description": "6-digit names with unique patterns",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "123-321-club.png",
+      "csv": ["123-321-club.csv"]
+    },
+    {
+      "name": "ABBBB Club",
+      "slug": "abbbb-club",
+      "description": "5-letter names start/end with 4 identical alphabets",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "abbbb-club.png",
+      "csv": ["abbbb-club.csv"]
+    },
+    {
+      "name": "5xA in 7 digits",
+      "slug": "5xa-in-7-digits",
+      "description": "7-digit name start/end with 5 identical numbers",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "5xa-in-7-digits.png",
+      "csv": ["5xa-in-7-digits.csv"]
+    },
+    {
+      "name": "ABBB club",
+      "slug": "abbb-club",
+      "description": "4 Letters names tail with 3 identical alphabets",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "abbb-club.png",
+      "csv": ["abbb-club.csv"]
+    },
+    {
+      "name": "ABAB club",
+      "slug": "abab-club",
+      "description": "4-letter names with ABAB pattern",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "abab-club.png",
+      "csv": ["abab-club.csv"]
+    },
+    {
+      "name": "7D ABBBBBC",
+      "slug": "7d-abbbbbc",
+      "description": "7 digits names with five identical numbers in the middle",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "7d-abbbbbc.png",
+      "csv": ["7d-abbbbbc.csv"]
+    },
+    {
+      "name": "7D x + straight",
+      "slug": "7d-x-straight",
+      "description": "7 digits names ends with a straight",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "7d-x-straight.png",
+      "csv": ["7d-x-straight.csv"]
+    },
+    {
+      "name": "3A3B in 7 digits",
+      "slug": "3a3b-in-7-digits",
+      "description": "7-digit names start/end with two sets of triple-identical numbers",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "3a3b-in-7-digits.png",
+      "csv": ["3a3b-in-7-digits.csv"]
+    },
+    {
+      "name": "Double Phonetic Alphabet Club",
+      "slug": "double-phonetic-alphabet-club",
+      "description": "Names with double PinYin",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "double-phonetic-alphabet-club.png",
+      "csv": ["double-phonetic-alphabet-club.csv"]
+    },
+    {
+      "name": "BBBA club",
+      "slug": "bbba-club",
+      "description": "4-letter names start with 3 identical alphabets",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "bbba-club.png",
+      "csv": ["bbba-club.csv"]
+    },
+    {
+      "name": "8D ABBBCCCA",
+      "slug": "8d-abbbccca",
+      "description": "8 digits names in ABBBCCCA format",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "8d-abbbccca.png",
+      "csv": ["8d-abbbccca.csv"]
     }
   ]
 }
