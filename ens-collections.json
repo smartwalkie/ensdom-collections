@@ -1637,6 +1637,36 @@
       "chat": "",
       "logo": "999-tail-club.png",
       "csv": ["999-tail-club.csv"]
+    },
+    {
+      "name": "0000 tail club",
+      "slug": "0000-tail-club",
+      "description": "Names with 6 & 7 digits ending in 0000",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "0000-tail-club.png",
+      "csv": ["0000-tail-club.csv"]
+    },
+    {
+      "name": "6D 00 head",
+      "slug": "6d-00-head",
+      "description": "6 digits names start with 00",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "6d-00-head.png",
+      "csv": ["6d-00-head.csv"]
+    },
+    {
+      "name": "7D 000 tail",
+      "slug": "7d-000-tail",
+      "description": "7 digits names end with 000",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "7d-000-tail.png",
+      "csv": ["7d-000-tail.csv"]
     }
   ]
 }
