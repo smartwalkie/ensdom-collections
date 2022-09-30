@@ -1667,6 +1667,26 @@
       "chat": "",
       "logo": "7d-000-tail.png",
       "csv": ["7d-000-tail.csv"]
+    },
+    {
+      "name": "8D AABBBCCC",
+      "slug": "8d-aabbbccc",
+      "description": "8 digits names in AABBBCCC format",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "8d-aabbbccc.png",
+      "csv": ["8d-aabbbccc.csv"]
+    },
+    {
+      "name": "8D AABBCCDD",
+      "slug": "8d-aabbccdd",
+      "description": "8 digits names in AABBCCDD format",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "8d-aabbccdd.png",
+      "csv": ["8d-aabbccdd.csv"]
     }
   ]
 }
