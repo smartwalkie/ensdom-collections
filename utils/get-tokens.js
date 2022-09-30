@@ -23,10 +23,13 @@ if (process.argv[2] === undefined) {
 const csvFile = process.argv[2];
 
 // get outfile if specified or use example-out.csv
-let csvOutFile = csvFile.replace(new RegExp('\.csv$', 'i'), '-out.csv')
+// let csvOutFile = csvFile.replace(new RegExp('\.csv$', 'i'), '-out.csv')
+var csvOutFile = csvFile.replace(/^.*[\\\/]/, '')
 if (process.argv[3] !== undefined) {
     csvOutFile = process.argv[3];
 }
+
+var csvOutFile11 = csvFile.replace(/^.*[\\\/]/, '')
 
 // read csv file
 const csvFS = fs.readFileSync(csvFile);

@@ -1537,7 +1537,8 @@
       "chat": "",
       "logo": "8d-palindromes-000-tail.png",
       "csv": ["8d-palindromes-000-tail.csv"]
-    },{
+    },
+    {
       "name": "0000 head club",
       "slug": "0000-head-club",
       "description": "Names with 6 & 7 digits starting with 0000",
@@ -1546,6 +1547,96 @@
       "chat": "",
       "logo": "0000-head-club.png",
       "csv": ["0000-head-club.csv"]
+    },
+    {
+      "name": "111 Tail Club",
+      "slug": "111-tail-club",
+      "description": "names with 6 digits ending in 111",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "111-tail-club.png",
+      "csv": ["111-tail-club.csv"]
+    },
+    {
+      "name": "222 Tail Club",
+      "slug": "222-tail-club",
+      "description": "names with 6 digits ending in 222",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "222-tail-club.png",
+      "csv": ["222-tail-club.csv"]
+    },
+    {
+      "name": "333 Tail Club",
+      "slug": "333-tail-club",
+      "description": "names with 6 digits ending in 333",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "333-tail-club.png",
+      "csv": ["333-tail-club.csv"]
+    },
+    {
+      "name": "444 Tail Club",
+      "slug": "444-tail-club",
+      "description": "names with 6 digits ending in 444",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "444-tail-club.png",
+      "csv": ["444-tail-club.csv"]
+    },
+    {
+      "name": "555 Tail Club",
+      "slug": "555-tail-club",
+      "description": "names with 6 digits ending in 555",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "555-tail-club.png",
+      "csv": ["555-tail-club.csv"]
+    },
+    {
+      "name": "666 Tail Club",
+      "slug": "666-tail-club",
+      "description": "names with 6 digits ending in 666",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "666-tail-club.png",
+      "csv": ["666-tail-club.csv"]
+    },
+    {
+      "name": "777 Tail Club",
+      "slug": "777-tail-club",
+      "description": "names with 6 digits ending in 777",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "777-tail-club.png",
+      "csv": ["777-tail-club.csv"]
+    },
+    {
+      "name": "888 Tail Club",
+      "slug": "888-tail-club",
+      "description": "names with 6 digits ending in 888",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "888-tail-club.png",
+      "csv": ["888-tail-club.csv"]
+    },
+    {
+      "name": "999 Tail Club",
+      "slug": "999-tail-club",
+      "description": "names with 6 digits ending in 999",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "999-tail-club.png",
+      "csv": ["999-tail-club.csv"]
     }
   ]
 }
