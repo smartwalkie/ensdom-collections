@@ -1807,6 +1807,15 @@
       "chat": "",
       "logo": "8d-abbbccca.png",
       "csv": ["8d-abbbccca.csv"]
+    },{
+      "name": "6 Digits",
+      "slug": "6-digits",
+      "description": "Names with 6 Digits: 000000-999999.",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "6-digits.png",
+      "csv": ["6-digits.csv"]
     }
   ]
 }
