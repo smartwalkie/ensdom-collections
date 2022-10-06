@@ -1816,6 +1816,15 @@
       "chat": "",
       "logo": "6-digits.png",
       "csv": ["6-digits.csv"]
-    }
+    },{
+      "name": "The PI ENS Club",
+      "slug": "the-pi-ens-club",
+      "description": "PI on the blockchain. Mint your digits & subdomain with the number 3!",
+      "twitter": "@pi_ens_club",
+      "website": "",
+      "chat": "",
+      "logo": "the-pi-ens-club.png",
+      "csv": ["the-pi-ens-club.csv"]
+      }
   ]
 }
