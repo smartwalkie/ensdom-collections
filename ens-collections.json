@@ -601,16 +601,6 @@
       "csv": ["6-digit-palindromes.csv"]
     },
     {
-      "name": "Gen1-Pokemon",
-      "slug": "gen1-pokemon",
-      "description": "Pokemon from Gen1 numbers 1-151.",
-      "twitter": "https://twitter.com/TrainerDAO",
-      "website": "N/A",
-      "chat": "https://discord.com/invite/nfWYw9mctW",
-      "logo": "gen1-pokemon.png",
-      "csv": ["gen1-pokemon.csv"]
-    },
-    {
       "name": "GOT Houses Club",
       "slug": "got-houses-club",
       "description": "Game of Thrones Houses",
