@@ -1797,7 +1797,8 @@
       "chat": "",
       "logo": "8d-abbbccca.png",
       "csv": ["8d-abbbccca.csv"]
-    },{
+    },
+    {
       "name": "6 Digits",
       "slug": "6-digits",
       "description": "Names with 6 Digits: 000000-999999.",
@@ -1806,7 +1807,8 @@
       "chat": "",
       "logo": "6-digits.png",
       "csv": ["6-digits.csv"]
-    },{
+    },
+    {
       "name": "The PI ENS Club",
       "slug": "the-pi-ens-club",
       "description": "PI on the blockchain. Mint your digits & subdomain with the number 3!",
@@ -1815,6 +1817,16 @@
       "chat": "",
       "logo": "the-pi-ens-club.png",
       "csv": ["the-pi-ens-club.csv"]
-      }
+    },
+    {
+      "name": "Chinese 10k Club Official",
+      "slug": "chinese-10k-Club-official",
+      "description": "零零零零 - 九千九百九十九 (0000-9999) Chinese Club (Simplified)",
+      "twitter": "10kENSClubCN",
+      "website": "",
+      "chat": "https://discord.gg/sazTKfrGYY",
+      "logo": "chinese-10k-Club-official.png",
+      "csv": ["chinese-10k-Club-official.csv"]
+    }
   ]
 }
