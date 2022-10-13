@@ -607,7 +607,7 @@
       "twitter": "GOTHousesClub",
       "website": "",
       "chat": "",
-      "logo": "",
+      "logo": "got-houses-club.png",
       "csv": ["got-houses-club.csv"]
     },
     {
@@ -687,7 +687,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "",
+      "logo": "ncaa.png",
       "csv": ["ncaa.csv"]
     },
     {
@@ -985,7 +985,7 @@
       "description": "Months in the Gregorian calendar",
       "website": "",
       "chat": "",
-      "logo": "",
+      "logo": "months.png",
       "csv": ["months.csv"]
     },
     {
