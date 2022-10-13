@@ -1820,13 +1820,13 @@
     },
     {
       "name": "Chinese 10k Club Official",
-      "slug": "chinese-10k-Club-official",
+      "slug": "chinese-10k-club-official",
       "description": "零零零零 - 九千九百九十九 (0000-9999) Chinese Club (Simplified)",
       "twitter": "10kENSClubCN",
       "website": "",
       "chat": "https://discord.gg/sazTKfrGYY",
-      "logo": "chinese-10k-Club-official.png",
-      "csv": ["chinese-10k-Club-official.csv"]
+      "logo": "chinese-10k-club-official.png",
+      "csv": ["chinese-10k-club-official.csv"]
     },
     {
       "name": "$99 Club",
