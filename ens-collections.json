@@ -7,7 +7,7 @@
       "twitter": "ethmojiclub",
       "website": "",
       "chat": "",
-      "logo": "ethmoji-quads.png",
+      "logo": "ethmoji-quads.jpg",
       "csv": ["ethmoji-quads.csv"]
     },
     {
@@ -17,7 +17,7 @@
       "twitter": "0x10kClub",
       "chat": "https://discord.gg/RrfsuKr2dE",
       "website": "",
-      "logo": "0x10k-club.png",
+      "logo": "0x10k-club.jpg",
       "csv": ["0x10k-club.csv"]
     },
     {
@@ -27,7 +27,7 @@
       "twitter": "0x10kClub",
       "chat": "https://discord.gg/RrfsuKr2dE",
       "website": "",
-      "logo": "0x99-club.png",
+      "logo": "0x99-club.jpg",
       "csv": ["0x99-club.csv"]
     },
     {
@@ -37,7 +37,7 @@
       "twitter": "0x10kClub",
       "chat": "https://discord.gg/RrfsuKr2dE",
       "website": "",
-      "logo": "0x999-club.png",
+      "logo": "0x999-club.jpg",
       "csv": ["0x999-club.csv"]
     },
     {
@@ -47,7 +47,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "0xemojis.png",
+      "logo": "0xemojis.jpg",
       "csv": ["0xemojis.csv"]
     },
     {
@@ -57,7 +57,7 @@
       "twitter": "HexClubXYZ",
       "chat": "https://discord.gg/3y8xUv3bPB",
       "website": "https://hexclub.xyz/",
-      "logo": "1-hex-club.png",
+      "logo": "1-hex-club.jpg",
       "csv": ["1-hex-club.csv"]
     },
     {
@@ -67,7 +67,7 @@
       "twitter": "HexClubXYZ",
       "chat": "https://discord.gg/3y8xUv3bPB",
       "website": "https://hexclub.xyz/",
-      "logo": "2-hex-club.png",
+      "logo": "2-hex-club.jpg",
       "csv": ["2-hex-club.csv"]
     },
     {
@@ -77,7 +77,7 @@
       "twitter": "HexClubXYZ",
       "chat": "https://discord.gg/3y8xUv3bPB",
       "website": "https://hexclub.xyz/",
-      "logo": "3-hex-club.png",
+      "logo": "3-hex-club.jpg",
       "csv": ["3-hex-club.csv"]
     },
     {
@@ -87,7 +87,7 @@
       "twitter": "ENSletters",
       "chat": "https://discord.gg/9maV66mE2e",
       "website": "",
-      "logo": "3-letters.png",
+      "logo": "3-letters.jpg",
       "csv": ["3-letters.csv"]
     },
     {
@@ -97,7 +97,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "3-letter-dictionary.png",
+      "logo": "3-letter-dictionary.jpg",
       "csv": ["3-letter-dictionary.csv"]
     },
     {
@@ -107,7 +107,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "3-letter-first-names.png",
+      "logo": "3-letter-first-names.jpg",
       "csv": ["3-letter-first-names.csv"]
     },
     {
@@ -117,7 +117,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "3-letter-palindromes.png",
+      "logo": "3-letter-palindromes.jpg",
       "csv": ["3-letter-palindromes.csv"]
     },
     {
@@ -127,7 +127,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "3-letter-all-vowels.png",
+      "logo": "3-letter-all-vowels.jpg",
       "csv": ["3-letter-all-vowels.csv"]
     },
     {
@@ -137,7 +137,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "3-digit-palindromes.png",
+      "logo": "3-digit-palindromes.jpg",
       "csv": ["3-digit-palindromes.csv"]
     },
     {
@@ -147,7 +147,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "4-digit-palindromes.png",
+      "logo": "4-digit-palindromes.jpg",
       "csv": ["4-digit-palindromes.csv"]
     },
     {
@@ -157,7 +157,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "4-letter-dictionary.png",
+      "logo": "4-letter-dictionary.jpg",
       "csv": ["4-letter-dictionary.csv"]
     },
     {
@@ -167,7 +167,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "5-letter-dictionary.png",
+      "logo": "5-letter-dictionary.jpg",
       "csv": ["5-letter-dictionary.csv"]
     },
     {
@@ -177,7 +177,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "5-digit-palindromes.png",
+      "logo": "5-digit-palindromes.jpg",
       "csv": ["5-digit-palindromes.csv"]
     },
     {
@@ -187,7 +187,7 @@
       "twitter": "10kClubOfficial",
       "chat": "https://discord.gg/aUemBKUuZ5",
       "website": "https://10kClub.com",
-      "logo": "10k-club.png",
+      "logo": "10k-club.jpg",
       "csv": ["10k-club.csv"]
     },
     {
@@ -197,7 +197,7 @@
       "twitter": "24hClubOfficial",
       "chat": "https://discord.gg/fQazeMMkXC",
       "website": "https://www.ensclock.com",
-      "logo": "24h-club.png",
+      "logo": "24h-club.jpg",
       "csv": ["24h-club.csv"]
     },
     {
@@ -207,7 +207,7 @@
       "twitter": "100kClubENS",
       "chat": "https://discord.gg/EmcSN6EJpY",
       "website": "",
-      "logo": "100k-club.png",
+      "logo": "100k-club.jpg",
       "csv": ["100k-club.csv"]
     },
     {
@@ -217,7 +217,7 @@
       "twitter": "10kClubOfficial",
       "chat": "https://discord.gg/aUemBKUuZ5",
       "website": "",
-      "logo": "999-club.png",
+      "logo": "999-club.jpg",
       "csv": ["999-club.csv"]
     },
     {
@@ -227,7 +227,7 @@
       "twitter": "999ENSArabic",
       "chat": "https://discord.gg/QNEmFx6DzW",
       "website": "",
-      "logo": "arabic-999-club.png",
+      "logo": "arabic-999-club.jpg",
       "csv": ["arabic-999-club.csv"]
     },
     {
@@ -237,7 +237,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "999-japan-simplified.png",
+      "logo": "999-japan-simplified.jpg",
       "csv": ["999-japan-simplified.csv"]
     },
     {
@@ -247,7 +247,7 @@
       "twitter": "999ENSArabic",
       "chat": "https://discord.gg/QNEmFx6DzW",
       "website": "",
-      "logo": "arabic-3-digit-palindromes.png",
+      "logo": "arabic-3-digit-palindromes.jpg",
       "csv": ["arabic-3-digit-palindromes.csv"]
     },
     {
@@ -257,7 +257,7 @@
       "twitter": "999ENSBengali",
       "website": "-",
       "chat": "https://discord.gg/H5BsbEjh",
-      "logo": "bengali-999-club.png",
+      "logo": "bengali-999-club.jpg",
       "csv": ["bengali-999-club.csv"]
     },
     {
@@ -267,7 +267,7 @@
       "twitter": "BinaryClubENS",
       "chat": "",
       "website": "",
-      "logo": "binary-club.png",
+      "logo": "binary-club.jpg",
       "csv": ["binary-club.csv"]
     },
     {
@@ -277,7 +277,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "capital-cities.png",
+      "logo": "capital-cities.jpg",
       "csv": ["capital-cities.csv"]
     },
     {
@@ -287,7 +287,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "countries.png",
+      "logo": "countries.jpg",
       "csv": ["countries.csv"]
     },
     {
@@ -297,7 +297,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "country-leaders.png",
+      "logo": "country-leaders.jpg",
       "csv": ["country-leaders.csv"]
     },
     {
@@ -307,7 +307,7 @@
       "twitter": "",
       "chat": "",
       "website": "https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3",
-      "logo": "country-codes.png",
+      "logo": "country-codes.jpg",
       "csv": ["country-codes.csv"]
     },
     {
@@ -317,7 +317,7 @@
       "twitter": "EthmojiClub",
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
-      "logo": "double-ethmoji.png",
+      "logo": "double-ethmoji.jpg",
       "csv": ["double-ethmoji.csv"]
     },
     {
@@ -327,7 +327,7 @@
       "twitter": "Ethmoji99",
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
-      "logo": "ethmoji-99-club.png",
+      "logo": "ethmoji-99-club.jpg",
       "csv": ["ethmoji-99-club.csv"]
     },
     {
@@ -337,7 +337,7 @@
       "twitter": "999OfficialClub",
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
-      "logo": "ethmoji-999-club.png",
+      "logo": "ethmoji-999-club.jpg",
       "csv": ["ethmoji-999-club.csv"]
     },
     {
@@ -347,7 +347,7 @@
       "twitter": "EnsDateClub",
       "chat": "https://discord.gg/gqAxF7uqUq",
       "website": "",
-      "logo": "ens-date-club.png",
+      "logo": "ens-date-club.jpg",
       "csv": ["ens-date-club.csv"]
     },
     {
@@ -357,7 +357,7 @@
       "twitter": "hyphENSclub",
       "chat": "https://discord.gg/X2bKAUdb6k",
       "website": "",
-      "logo": "hyphens-ll.png",
+      "logo": "hyphens-ll.jpg",
       "csv": ["hyphens-ll.csv"]
     },
     {
@@ -367,7 +367,7 @@
       "twitter": "hyphENSclub",
       "chat": "https://discord.gg/X2bKAUdb6k",
       "website": "",
-      "logo": "hyphens-ln-nl.png",
+      "logo": "hyphens-ln-nl.jpg",
       "csv": ["hyphens-ln-nl.csv"]
     },
     {
@@ -377,7 +377,7 @@
       "twitter": "LV_LV_club",
       "chat": "",
       "website": "",
-      "logo": "double-hyphens-lv-lv.png",
+      "logo": "double-hyphens-lv-lv.jpg",
       "csv": ["double-hyphens-lv-lv.csv"]
     },
     {
@@ -387,7 +387,7 @@
       "twitter": "VV_VV_Club",
       "chat": "",
       "website": "",
-      "logo": "double-hyphens-vv-vv.png",
+      "logo": "double-hyphens-vv-vv.jpg",
       "csv": ["double-hyphens-vv-vv.csv"]
     },
     {
@@ -397,7 +397,7 @@
       "twitter": "hyphENSclub",
       "chat": "https://discord.gg/X2bKAUdb6k",
       "website": "",
-      "logo": "hyphens-nn.png",
+      "logo": "hyphens-nn.jpg",
       "csv": ["hyphens-nn.csv"]
     },
     {
@@ -407,7 +407,7 @@
       "twitter": "TrainerDAO",
       "chat": "https://discord.gg/nfWYw9mctW",
       "website": "",
-      "logo": "japanese-pokemon-trainer-dao.png",
+      "logo": "japanese-pokemon-trainer-dao.jpg",
       "csv": ["japanese-pokemon-trainer-dao.csv"]
     },
     {
@@ -417,7 +417,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "mnemonic-club.png",
+      "logo": "mnemonic-club.jpg",
       "csv": ["mnemonic-club.csv"]
     },
     {
@@ -427,7 +427,7 @@
       "twitter": "TrainerDAO",
       "chat": "https://discord.gg/nfWYw9mctW",
       "website": "",
-      "logo": "pokemon-trainer-dao.png",
+      "logo": "pokemon-trainer-dao.jpg",
       "csv": ["pokemon-trainer-dao.csv"]
     },
     {
@@ -437,7 +437,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "pre-punk-club.png",
+      "logo": "pre-punk-club.jpg",
       "csv": ["pre-punk-club.csv"]
     },
     {
@@ -447,7 +447,7 @@
       "twitter": "EthmojiClub",
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
-      "logo": "single-ethmoji.png",
+      "logo": "single-ethmoji.jpg",
       "csv": ["single-ethmoji.csv"]
     },
     {
@@ -457,7 +457,7 @@
       "twitter": "EthmojiClub",
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
-      "logo": "triple-ethmoji.png",
+      "logo": "triple-ethmoji.jpg",
       "csv": ["triple-ethmoji.csv"]
     },
     {
@@ -467,7 +467,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "english-nouns.png",
+      "logo": "english-nouns.jpg",
       "csv": ["english-nouns.csv"]
     },
     {
@@ -477,7 +477,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "english-verbs.png",
+      "logo": "english-verbs.jpg",
       "csv": ["english-verbs.csv"]
     },
     {
@@ -487,7 +487,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "english-adjectives.png",
+      "logo": "english-adjectives.jpg",
       "csv": ["english-adjectives.csv"]
     },
     {
@@ -497,7 +497,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "4-letter-dictionary.png",
+      "logo": "4-letter-dictionary.jpg",
       "csv": ["4-letter-dictionary.csv"]
     },
     {
@@ -507,7 +507,7 @@
       "twitter": "mmddclub",
       "chat": "",
       "website": "",
-      "logo": "mmdd-club.png",
+      "logo": "mmdd-club.jpg",
       "csv": ["mmdd-club.csv"]
     },
     {
@@ -517,7 +517,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "substances-club.png",
+      "logo": "substances-club.jpg",
       "csv": ["substances-club.csv"]
     },
     {
@@ -527,7 +527,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "male-firstnames.png",
+      "logo": "male-firstnames.jpg",
       "csv": ["male-firstnames.csv"]
     },
     {
@@ -537,7 +537,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "female-firstnames.png",
+      "logo": "female-firstnames.jpg",
       "csv": ["female-firstnames.csv"]
     },
     {
@@ -547,7 +547,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "playstation-console-series.png",
+      "logo": "playstation-console-series.jpg",
       "csv": ["playstation-console-series.csv"]
     },
     {
@@ -557,7 +557,7 @@
       "twitter": "HarryPotterENS",
       "website": "",
       "chat": "",
-      "logo": "harry-potter.png",
+      "logo": "harry-potter.jpg",
       "csv": ["harry-potter.csv"]
     },
     {
@@ -567,7 +567,7 @@
       "twitter": "TolkienENS",
       "website": "",
       "chat": "",
-      "logo": "tolkien.png",
+      "logo": "tolkien.jpg",
       "csv": ["tolkien.csv"]
     },
     {
@@ -577,7 +577,7 @@
       "twitter": "999ENSArabic",
       "chat": "https://discord.gg/QNEmFx6DzW",
       "website": "",
-      "logo": "arabic-10k-club.png",
+      "logo": "arabic-10k-club.jpg",
       "csv": ["arabic-10k-club.csv"]
     },
     {
@@ -587,7 +587,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "naruto-names.png",
+      "logo": "naruto-names.jpg",
       "csv": ["naruto-names.csv"]
     },
     {
@@ -597,7 +597,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "6-digit-palindromes.png",
+      "logo": "6-digit-palindromes.jpg",
       "csv": ["6-digit-palindromes.csv"]
     },
     {
@@ -607,7 +607,7 @@
       "twitter": "GOTHousesClub",
       "website": "",
       "chat": "",
-      "logo": "got-houses-club.png",
+      "logo": "got-houses-club.jpg",
       "csv": ["got-houses-club.csv"]
     },
     {
@@ -617,7 +617,7 @@
       "twitter": "ENSPokerClub",
       "website": "",
       "chat": "",
-      "logo": "poker-club.png",
+      "logo": "poker-club.jpg",
       "csv": ["poker-club.csv"]
     },
     {
@@ -627,7 +627,7 @@
       "twitter": "MarvelENSClub",
       "website": "",
       "chat": "",
-      "logo": "marvel-club.png",
+      "logo": "marvel-club.jpg",
       "csv": ["marvel-club.csv"]
     },
     {
@@ -637,7 +637,7 @@
       "twitter": "https://twitter.com/sin999club",
       "website": "https://sin999.club",
       "chat": "https://discord.gg/hEKP9a7G",
-      "logo": "tamil-999-club.png",
+      "logo": "tamil-999-club.jpg",
       "csv": ["tamil-999-club.csv"]
     },
     {
@@ -647,7 +647,7 @@
       "twitter": "https://twitter.com/sin999club",
       "website": "https://sin999.club",
       "chat": "https://discord.gg/hEKP9a7G",
-      "logo": "telugu-999-club.png",
+      "logo": "telugu-999-club.jpg",
       "csv": ["telugu-999-club.csv"]
     },
     {
@@ -657,7 +657,7 @@
       "twitter": "https://twitter.com/sin999club",
       "website": "https://sin999.club",
       "chat": "https://discord.gg/hEKP9a7G",
-      "logo": "kannada-999-club.png",
+      "logo": "kannada-999-club.jpg",
       "csv": ["kannada-999-club.csv"]
     },
     {
@@ -667,7 +667,7 @@
       "twitter": "https://twitter.com/sin999club",
       "website": "https://sin999.club",
       "chat": "https://discord.gg/hEKP9a7G",
-      "logo": "malayalam-999-club.png",
+      "logo": "malayalam-999-club.jpg",
       "csv": ["malayalam-999-club.csv"]
     },
     {
@@ -677,7 +677,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "5-digit-james-bond.png",
+      "logo": "5-digit-james-bond.jpg",
       "csv": ["5-digit-james-bond.csv"]
     },
     {
@@ -687,7 +687,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "ncaa.png",
+      "logo": "ncaa.jpg",
       "csv": ["ncaa.csv"]
     },
     {
@@ -697,7 +697,7 @@
       "twitter": "nasdaq_ensindex",
       "chat": "https://discord.gg/5J9xE2X7XH",
       "website": "",
-      "logo": "nasdaq-ens-index.png",
+      "logo": "nasdaq-ens-index.jpg",
       "csv": ["nasdaq-ens-index.csv"]
     },
     {
@@ -707,7 +707,7 @@
       "twitter": "Club360o",
       "website": "",
       "chat": "https://discord.gg/p3mVvzePuB",
-      "logo": "360-degrees-club.png",
+      "logo": "360-degrees-club.jpg",
       "csv": ["360-degrees-club.csv"]
     },
     {
@@ -717,7 +717,7 @@
       "twitter": "3dChinese",
       "website": "",
       "chat": "https://discord.gg/82fuK42RyV",
-      "logo": "999-cn-capitalized-club.png",
+      "logo": "999-cn-capitalized-club.jpg",
       "csv": ["999-cn-capitalized-club.csv"]
     },
     {
@@ -727,7 +727,7 @@
       "twitter": "999cndigit",
       "website": "",
       "chat": "https://discord.gg/EGQy6zmR",
-      "logo": "999-cn-club.png",
+      "logo": "999-cn-club.jpg",
       "csv": ["999-cn-club.csv"]
     },
     {
@@ -737,7 +737,7 @@
       "twitter": "3DigitsHebrew",
       "website": "-",
       "chat": "https://discord.com/invite/GrEDQNKt4M",
-      "logo": "3-digits-hebrew-club.png",
+      "logo": "3-digits-hebrew-club.jpg",
       "csv": ["3-digits-hebrew-club.csv"]
     },
     {
@@ -747,7 +747,7 @@
       "twitter": "BIP39Club",
       "website": "https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt",
       "chat": "",
-      "logo": "bip39-club.png",
+      "logo": "bip39-club.jpg",
       "csv": ["bip39-club.csv"]
     },
     {
@@ -757,7 +757,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "palindrome-cities.png",
+      "logo": "palindrome-cities.jpg",
       "csv": ["palindrome-cities.csv"]
     },
     {
@@ -767,7 +767,7 @@
       "twitter": "999ENSHindi",
       "website": "",
       "chat": "https://discord.gg/HeyxC5nmAe",
-      "logo": "hindi-999-club.png",
+      "logo": "hindi-999-club.jpg",
       "csv": ["hindi-999-club.csv"]
     },
     {
@@ -777,7 +777,7 @@
       "twitter": "999ENSHindi",
       "website": "",
       "chat": "http://discord.gg/h2UKStxsTS",
-      "logo": "hindi-10k-club.png",
+      "logo": "hindi-10k-club.jpg",
       "csv": ["hindi-10k-club.csv"]
     },
     {
@@ -787,7 +787,7 @@
       "twitter": "Korean999Club",
       "website": "",
       "chat": "",
-      "logo": "korean-999-club.png",
+      "logo": "korean-999-club.jpg",
       "csv": ["korean-999-club.csv"]
     },
     {
@@ -797,7 +797,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "roman-numerals-969-club.png",
+      "logo": "roman-numerals-969-club.jpg",
       "csv": ["roman-numerals-969-club.csv"]
     },
     {
@@ -807,7 +807,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "thai-999-club.png",
+      "logo": "thai-999-club.jpg",
       "csv": ["thai-999-club.csv"]
     },
     {
@@ -817,7 +817,7 @@
       "twitter": "10kClubCN",
       "website": "",
       "chat": "https://discord.gg/EGQy6zmR",
-      "logo": "cn-10k-club.png",
+      "logo": "cn-10k-club.jpg",
       "csv": ["cn-10k-club.csv"]
     },
     {
@@ -827,7 +827,7 @@
       "twitter": "999ENSBengali",
       "website": "",
       "chat": "https://discord.gg/H5BsbEjh",
-      "logo": "bengali-999-club.png",
+      "logo": "bengali-999-club.jpg",
       "csv": ["bengali-999-club.csv"]
     },
     {
@@ -837,7 +837,7 @@
       "twitter": "TradCN999",
       "website": "",
       "chat": "",
-      "logo": "traditional-cn-999-club.png",
+      "logo": "traditional-cn-999-club.jpg",
       "csv": ["traditional-cn-999-club.csv"]
     },
     {
@@ -847,7 +847,7 @@
       "twitter": "Persian999Club",
       "website": "",
       "chat": "https://discord.gg/8u2v2wS2",
-      "logo": "persian-999-club.png",
+      "logo": "persian-999-club.jpg",
       "csv": ["persian-999-club.csv"]
     },
     {
@@ -857,7 +857,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "jurassic-ens.png",
+      "logo": "jurassic-ens.jpg",
       "csv": ["jurassic-ens.csv"]
     },
     {
@@ -867,7 +867,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "languages-of-the-world.png",
+      "logo": "languages-of-the-world.jpg",
       "csv": ["languages-of-the-world.csv"]
     },
     {
@@ -877,7 +877,7 @@
       "twitter": "TheCentsClub",
       "website": "",
       "chat": "https://discord.gg/YbNGdmCNwT",
-      "logo": "the-cents-club.png",
+      "logo": "the-cents-club.jpg",
       "csv": ["the-cents-club.csv"]
     },
     {
@@ -887,7 +887,7 @@
       "twitter": "365clubofficial",
       "website": "",
       "chat": "",
-      "logo": "365-club.png",
+      "logo": "365-club.jpg",
       "csv": ["365-club.csv"]
     },
     {
@@ -897,7 +897,7 @@
       "twitter": "999SlayerClub",
       "website": "",
       "chat": "",
-      "logo": "999-japan-official.png",
+      "logo": "999-japan-official.jpg",
       "csv": ["999-japan-official.csv"]
     },
     {
@@ -907,7 +907,7 @@
       "twitter": "Psalmsclub",
       "website": "",
       "chat": "https://discord.gg/43hTTVFzSC",
-      "logo": "psalms-club.png",
+      "logo": "psalms-club.jpg",
       "csv": ["psalms-club.csv"]
     },
     {
@@ -917,7 +917,7 @@
       "twitter": "GreekAlphabetClub",
       "website": "",
       "chat": "",
-      "logo": "3-letter-greek-alphabet.png",
+      "logo": "3-letter-greek-alphabet.jpg",
       "csv": ["3-letter-greek-alphabet.csv"]
     },
     {
@@ -926,7 +926,7 @@
       "description": "1January.eth – 31December.eth",
       "twitter": "EnsFullDateClub",
       "chat": "https://discord.gg/FnYyqDkmRX",
-      "logo": "ens-full-date-club.png",
+      "logo": "ens-full-date-club.jpg",
       "csv": ["ens-full-date-club.csv"]
     },
     {
@@ -936,7 +936,7 @@
       "twitter": "24ClockTimes",
       "website": "",
       "chat": "https://discord.gg/eWEdvcT5SS",
-      "logo": "24-clock-times.png",
+      "logo": "24-clock-times.jpg",
       "csv": ["24-clock-times.csv"]
     },
     {
@@ -946,7 +946,7 @@
       "twitter": "KanyeEnsClub",
       "website": "",
       "chat": "",
-      "logo": "kanye-ens-club.png",
+      "logo": "kanye-ens-club.jpg",
       "csv": ["kanye-ens-club.csv"]
     },
     {
@@ -956,7 +956,7 @@
       "twitter": "flags_with",
       "website": "",
       "chat": "",
-      "logo": "flagcountry-club.png",
+      "logo": "flagcountry-club.jpg",
       "csv": ["flagcountry-club.csv"]
     },
     {
@@ -966,7 +966,7 @@
       "twitter": "1_digitx1_digit",
       "chat": "https://discord.gg/5J9xE2X7XH",
       "website": "discord.gg/VSFUAYh9dG",
-      "logo": "single-digit-multiplication.png",
+      "logo": "single-digit-multiplication.jpg",
       "csv": ["single-digit-multiplication.csv"]
     },
     {
@@ -976,7 +976,7 @@
       "twitter": "999ENSPunjabi",
       "website": "",
       "chat": "",
-      "logo": "punjabi-999-club.png",
+      "logo": "punjabi-999-club.jpg",
       "csv": ["punjabi-999-club.csv"]
     },
     {
@@ -985,7 +985,7 @@
       "description": "Months in the Gregorian calendar",
       "website": "",
       "chat": "",
-      "logo": "months.png",
+      "logo": "months.jpg",
       "csv": ["months.csv"]
     },
     {
@@ -995,7 +995,7 @@
       "twitter": "999ClubENSCN",
       "website": "",
       "chat": "https://discord.gg/sazTKfrGYY",
-      "logo": "999-club-ens-chinese.png",
+      "logo": "999-club-ens-chinese.jpg",
       "csv": ["999-club-ens-chinese.csv"]
     },
     {
@@ -1005,7 +1005,7 @@
       "twitter": "999BrailleClub",
       "chat": "",
       "website": "",
-      "logo": "braille-999-club.png",
+      "logo": "braille-999-club.jpg",
       "csv": ["braille-999-club.csv"]
     },
     {
@@ -1015,7 +1015,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "3l-months.png",
+      "logo": "3l-months.jpg",
       "csv": ["3l-months.csv"]
     },
     {
@@ -1025,7 +1025,7 @@
       "twitter": "99_temperature",
       "website": "N/A",
       "chat": "N/A",
-      "logo": "99-temperature-club.png",
+      "logo": "99-temperature-club.jpg",
       "csv": ["99-temperature-club.csv"]
     },
     {
@@ -1035,7 +1035,7 @@
       "twitter": "HyphensNNNClub",
       "chat": "https://discord.com/channels/970489721602080798/970632628652900372",
       "website": "N/A",
-      "logo": "hyphens-nnn.png",
+      "logo": "hyphens-nnn.jpg",
       "csv": ["hyphens-nnn.csv"]
     },
     {
@@ -1045,7 +1045,7 @@
       "twitter": "@999thClub",
       "chat": "https://discord.gg/HkWudGJr6m",
       "website": "",
-      "logo": "999th-club.png",
+      "logo": "999th-club.jpg",
       "csv": ["999th-club.csv"]
     },
     {
@@ -1055,7 +1055,7 @@
       "twitter": "au999passport",
       "website": "",
       "chat": "https://discord.com/invite/QqSPHBSu",
-      "logo": "aus-999-club.png",
+      "logo": "aus-999-club.jpg",
       "csv": ["aus-999-club.csv"]
     },
     {
@@ -1065,7 +1065,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "skateboard-tricks.png",
+      "logo": "skateboard-tricks.jpg",
       "csv": ["skateboard-tricks.csv"]
     },
     {
@@ -1075,7 +1075,7 @@
       "twitter": "us999passport",
       "website": "",
       "chat": "https://discord.gg/NaTzeU8PNj",
-      "logo": "us-999-club.png",
+      "logo": "us-999-club.jpg",
       "csv": ["us-999-club.csv"]
     },
     {
@@ -1085,7 +1085,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "dbz-characters.png",
+      "logo": "dbz-characters.jpg",
       "csv": ["dbz-characters.csv"]
     },
     {
@@ -1095,7 +1095,7 @@
       "twitter": "EthmojiClub",
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
-      "logo": "ethmoji-0x10k-club.png",
+      "logo": "ethmoji-0x10k-club.jpg",
       "csv": ["ethmoji-0x10k-club.csv"]
     },
     {
@@ -1105,7 +1105,7 @@
       "twitter": "EthmojiClub",
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
-      "logo": "ethmoji-id-99-club.png",
+      "logo": "ethmoji-id-99-club.jpg",
       "csv": ["ethmoji-id-99-club.csv"]
     },
     {
@@ -1115,7 +1115,7 @@
       "twitter": "EthmojiClub",
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
-      "logo": "ethmoji-0x999-club.png",
+      "logo": "ethmoji-0x999-club.jpg",
       "csv": ["ethmoji-0x999-club.csv"]
     },
     {
@@ -1125,7 +1125,7 @@
       "twitter": "EthmojiClub",
       "chat": "https://discord.gg/vv6H4Rjuzm",
       "website": "",
-      "logo": "ethmoji-0x99-club.png",
+      "logo": "ethmoji-0x99-club.jpg",
       "csv": ["ethmoji-0x99-club.csv"]
     },
     {
@@ -1135,7 +1135,7 @@
       "twitter": "999BubbleClub",
       "chat": "",
       "website": "",
-      "logo": "999-bubble-club.png",
+      "logo": "999-bubble-club.jpg",
       "csv": ["999-bubble-club.csv"]
     },
     {
@@ -1145,7 +1145,7 @@
       "twitter": "EnsSpanishW3W",
       "chat": "",
       "website": "",
-      "logo": "spanish-nouns.png",
+      "logo": "spanish-nouns.jpg",
       "csv": ["spanish-nouns.csv"]
     },
     {
@@ -1155,7 +1155,7 @@
       "twitter": "EnsSpanishW3W",
       "chat": "",
       "website": "",
-      "logo": "spanish-verbs.png",
+      "logo": "spanish-verbs.jpg",
       "csv": ["spanish-verbs.csv"]
     },
     {
@@ -1165,7 +1165,7 @@
       "twitter": "EnsSpanishW3W",
       "chat": "",
       "website": "",
-      "logo": "english-animals.png",
+      "logo": "english-animals.jpg",
       "csv": ["english-animals.csv"]
     },
     {
@@ -1175,7 +1175,7 @@
       "twitter": "EnsSpanishW3W",
       "chat": "",
       "website": "",
-      "logo": "spanish-animals.png",
+      "logo": "spanish-animals.jpg",
       "csv": ["spanish-animals.csv"]
     },
     {
@@ -1185,7 +1185,7 @@
       "twitter": "ArabicMfn",
       "website": "",
       "chat": "",
-      "logo": "male-firstname-arabic-club.png",
+      "logo": "male-firstname-arabic-club.jpg",
       "csv": ["male-firstname-arabic-club.csv"]
     },
     {
@@ -1195,7 +1195,7 @@
       "twitter": "ethmojiclub",
       "website": "",
       "chat": "https://discord.gg/vv6H4Rjuzm",
-      "logo": "ethmoji-10k-club.png",
+      "logo": "ethmoji-10k-club.jpg",
       "csv": ["ethmoji-10k-club.csv"]
     },
     {
@@ -1205,7 +1205,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "surnames.png",
+      "logo": "surnames.jpg",
       "csv": ["surnames.csv"]
     },
     {
@@ -1215,7 +1215,7 @@
       "twitter": "prepunkclub",
       "website": "https://pre-punk.club/",
       "chat": "https://discord.gg/XSudfGtVCx",
-      "logo": "pre-punk-1k.png",
+      "logo": "pre-punk-1k.jpg",
       "csv": ["pre-punk-1k.csv"]
     },
     {
@@ -1225,7 +1225,7 @@
       "twitter": "prepunkclub",
       "website": "https://pre-punk.club/",
       "chat": "https://discord.gg/XSudfGtVCx",
-      "logo": "pre-punk-10k.png",
+      "logo": "pre-punk-10k.jpg",
       "csv": ["pre-punk-10k.csv"]
     },
     {
@@ -1235,7 +1235,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "5-letter-palindromes.png",
+      "logo": "5-letter-palindromes.jpg",
       "csv": ["5-letter-palindromes.csv"]
     },
     {
@@ -1245,7 +1245,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "4-letter-palindromes.png",
+      "logo": "4-letter-palindromes.jpg",
       "csv": ["4-letter-palindromes.csv"]
     },
     {
@@ -1255,7 +1255,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "6-letter-palindromes.png",
+      "logo": "6-letter-palindromes.jpg",
       "csv": ["6-letter-palindromes.csv"]
     },
     {
@@ -1265,7 +1265,7 @@
       "twitter": "EthmojiClub",
       "chat": "discord.gg/ethmoji",
       "website": "",
-      "logo": "base-single-ethmoji.png",
+      "logo": "base-single-ethmoji.jpg",
       "csv": ["base-single-ethmoji.csv"]
     },
     {
@@ -1275,7 +1275,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "-2dig.png",
+      "logo": "-2dig.jpg",
       "csv": ["-2dig.csv"]
     },
     {
@@ -1285,7 +1285,7 @@
       "twitter": "Tamil999digits",
       "chat": "https://discord.com/invite/tXR2zY2a",
       "website": "",
-      "logo": "ancient-tamil-999.png",
+      "logo": "ancient-tamil-999.jpg",
       "csv": ["ancient-tamil-999.csv"]
     },
     {
@@ -1295,7 +1295,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "surnames-top3000-globally.png",
+      "logo": "surnames-top3000-globally.jpg",
       "csv": ["surnames-top3000-globally.csv"]
     },
     {
@@ -1305,7 +1305,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "forenames-top3000-globally.png",
+      "logo": "forenames-top3000-globally.jpg",
       "csv": ["forenames-top3000-globally.csv"]
     },
     {
@@ -1315,7 +1315,7 @@
       "twitter": "7DPalindromes",
       "chat": "",
       "website": "",
-      "logo": "7-digits-palindromes.png",
+      "logo": "7-digits-palindromes.jpg",
       "csv": ["7-digits-palindromes.csv"]
     },
     {
@@ -1325,7 +1325,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "the-one-hundred.png",
+      "logo": "the-one-hundred.jpg",
       "csv": ["the-one-hundred.csv"]
     },
     {
@@ -1335,7 +1335,7 @@
       "twitter": "https://twitter.com/ogdigitsclub",
       "chat": "",
       "website": "https://ogdigits.club/",
-      "logo": "og-digits.png",
+      "logo": "og-digits.jpg",
       "csv": ["og-digits.csv"]
     },
     {
@@ -1345,7 +1345,7 @@
       "twitter": "https://twitter.com/EnsSpanishW3W",
       "chat": "",
       "website": "",
-      "logo": "spanish-adjectives.png",
+      "logo": "spanish-adjectives.jpg",
       "csv": ["spanish-adjectives.csv"]
     },
     {
@@ -1355,7 +1355,7 @@
       "twitter": "https://twitter.com/EnsSpanishW3W",
       "chat": "",
       "website": "",
-      "logo": "spanish-female-firstnames.png",
+      "logo": "spanish-female-firstnames.jpg",
       "csv": ["spanish-female-firstnames.csv"]
     },
     {
@@ -1365,7 +1365,7 @@
       "twitter": "https://twitter.com/EnsSpanishW3W",
       "chat": "",
       "website": "",
-      "logo": "spanish-male-firstnames.png",
+      "logo": "spanish-male-firstnames.jpg",
       "csv": ["spanish-male-firstnames.csv"]
     },
     {
@@ -1375,7 +1375,7 @@
       "twitter": "https://twitter.com/EnsSpanishW3W",
       "chat": "",
       "website": "",
-      "logo": "spanish-months-days.png",
+      "logo": "spanish-months-days.jpg",
       "csv": ["spanish-months-days.csv"]
     },
     {
@@ -1385,7 +1385,7 @@
       "twitter": "https://twitter.com/BTCbuddah",
       "chat": "",
       "website": "",
-      "logo": "english-goddesses.png",
+      "logo": "english-goddesses.jpg",
       "csv": ["english-goddesses.csv"]
     },
     {
@@ -1395,7 +1395,7 @@
       "twitter": "https://twitter.com/BTCbuddah",
       "chat": "",
       "website": "",
-      "logo": "english-dinosaurs.png",
+      "logo": "english-dinosaurs.jpg",
       "csv": ["english-dinosaurs.csv"]
     },
     {
@@ -1405,7 +1405,7 @@
       "twitter": "https://twitter.com/BTCbuddah",
       "chat": "",
       "website": "",
-      "logo": "spanish-dinosaurs.png",
+      "logo": "spanish-dinosaurs.jpg",
       "csv": ["spanish-dinosaurs.csv"]
     },
     {
@@ -1415,7 +1415,7 @@
       "twitter": "_99ClubENS",
       "website": "https://linktr.ee/underscore_ens",
       "chat": "https://discord.gg/W5YP3UKSkW",
-      "logo": "_99-club.png",
+      "logo": "_99-club.jpg",
       "csv": ["_99-club.csv"]
     },
     {
@@ -1425,7 +1425,7 @@
       "twitter": "_999clubENS",
       "website": "https://linktr.ee/underscore_ens",
       "chat": "https://discord.gg/W5YP3UKSkW",
-      "logo": "_999-club.png",
+      "logo": "_999-club.jpg",
       "csv": ["_999-club.csv"]
     },
     {
@@ -1435,7 +1435,7 @@
       "twitter": "_10kClub",
       "website": "https://linktr.ee/underscore_ens",
       "chat": "https://discord.gg/W5YP3UKSkW",
-      "logo": "_10k-club.png",
+      "logo": "_10k-club.jpg",
       "csv": ["_10k-club.csv"]
     },
     {
@@ -1445,7 +1445,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "7d-palindromes-0-head.png",
+      "logo": "7d-palindromes-0-head.jpg",
       "csv": ["7d-palindromes-0-head.csv"]
     },
     {
@@ -1455,7 +1455,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "7d-palindromes-00-head.png",
+      "logo": "7d-palindromes-00-head.jpg",
       "csv": ["7d-palindromes-00-head.csv"]
     },
     {
@@ -1465,7 +1465,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "7d-palindromes-0-tail.png",
+      "logo": "7d-palindromes-0-tail.jpg",
       "csv": ["7d-palindromes-0-tail.csv"]
     },
     {
@@ -1475,7 +1475,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "7d-palindromes-00-tail.png",
+      "logo": "7d-palindromes-00-tail.jpg",
       "csv": ["7d-palindromes-00-tail.csv"]
     },
     {
@@ -1485,7 +1485,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "8-digits-palindromes.png",
+      "logo": "8-digits-palindromes.jpg",
       "csv": ["8-digits-palindromes.csv"]
     },
     {
@@ -1495,7 +1495,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "8d-palindromes-00-head.png",
+      "logo": "8d-palindromes-00-head.jpg",
       "csv": ["8d-palindromes-00-head.csv"]
     },
     {
@@ -1505,7 +1505,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "8d-palindromes-000-head.png",
+      "logo": "8d-palindromes-000-head.jpg",
       "csv": ["8d-palindromes-000-head.csv"]
     },
     {
@@ -1515,7 +1515,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "8d-palindromes-00-tail.png",
+      "logo": "8d-palindromes-00-tail.jpg",
       "csv": ["8d-palindromes-00-tail.csv"]
     },
     {
@@ -1525,7 +1525,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "8d-palindromes-000-tail.png",
+      "logo": "8d-palindromes-000-tail.jpg",
       "csv": ["8d-palindromes-000-tail.csv"]
     },
     {
@@ -1535,7 +1535,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "0000-head-club.png",
+      "logo": "0000-head-club.jpg",
       "csv": ["0000-head-club.csv"]
     },
     {
@@ -1545,7 +1545,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "111-tail-club.png",
+      "logo": "111-tail-club.jpg",
       "csv": ["111-tail-club.csv"]
     },
     {
@@ -1555,7 +1555,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "222-tail-club.png",
+      "logo": "222-tail-club.jpg",
       "csv": ["222-tail-club.csv"]
     },
     {
@@ -1565,7 +1565,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "333-tail-club.png",
+      "logo": "333-tail-club.jpg",
       "csv": ["333-tail-club.csv"]
     },
     {
@@ -1575,7 +1575,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "444-tail-club.png",
+      "logo": "444-tail-club.jpg",
       "csv": ["444-tail-club.csv"]
     },
     {
@@ -1585,7 +1585,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "555-tail-club.png",
+      "logo": "555-tail-club.jpg",
       "csv": ["555-tail-club.csv"]
     },
     {
@@ -1595,7 +1595,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "666-tail-club.png",
+      "logo": "666-tail-club.jpg",
       "csv": ["666-tail-club.csv"]
     },
     {
@@ -1605,7 +1605,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "777-tail-club.png",
+      "logo": "777-tail-club.jpg",
       "csv": ["777-tail-club.csv"]
     },
     {
@@ -1615,7 +1615,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "888-tail-club.png",
+      "logo": "888-tail-club.jpg",
       "csv": ["888-tail-club.csv"]
     },
     {
@@ -1625,7 +1625,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "999-tail-club.png",
+      "logo": "999-tail-club.jpg",
       "csv": ["999-tail-club.csv"]
     },
     {
@@ -1635,7 +1635,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "0000-tail-club.png",
+      "logo": "0000-tail-club.jpg",
       "csv": ["0000-tail-club.csv"]
     },
     {
@@ -1645,7 +1645,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "6d-00-head.png",
+      "logo": "6d-00-head.jpg",
       "csv": ["6d-00-head.csv"]
     },
     {
@@ -1655,7 +1655,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "7d-000-tail.png",
+      "logo": "7d-000-tail.jpg",
       "csv": ["7d-000-tail.csv"]
     },
     {
@@ -1665,7 +1665,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "8d-aabbbccc.png",
+      "logo": "8d-aabbbccc.jpg",
       "csv": ["8d-aabbbccc.csv"]
     },
     {
@@ -1675,7 +1675,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "8d-aabbccdd.png",
+      "logo": "8d-aabbccdd.jpg",
       "csv": ["8d-aabbccdd.csv"]
     },
     {
@@ -1685,7 +1685,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "aabb-club.png",
+      "logo": "aabb-club.jpg",
       "csv": ["aabb-club.csv"]
     },
     {
@@ -1695,7 +1695,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "123-321-club.png",
+      "logo": "123-321-club.jpg",
       "csv": ["123-321-club.csv"]
     },
     {
@@ -1705,7 +1705,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "abbbb-club.png",
+      "logo": "abbbb-club.jpg",
       "csv": ["abbbb-club.csv"]
     },
     {
@@ -1715,7 +1715,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "5xa-in-7-digits.png",
+      "logo": "5xa-in-7-digits.jpg",
       "csv": ["5xa-in-7-digits.csv"]
     },
     {
@@ -1725,7 +1725,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "abbb-club.png",
+      "logo": "abbb-club.jpg",
       "csv": ["abbb-club.csv"]
     },
     {
@@ -1735,7 +1735,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "abab-club.png",
+      "logo": "abab-club.jpg",
       "csv": ["abab-club.csv"]
     },
     {
@@ -1745,7 +1745,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "7d-abbbbbc.png",
+      "logo": "7d-abbbbbc.jpg",
       "csv": ["7d-abbbbbc.csv"]
     },
     {
@@ -1755,7 +1755,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "7d-x-straight.png",
+      "logo": "7d-x-straight.jpg",
       "csv": ["7d-x-straight.csv"]
     },
     {
@@ -1765,7 +1765,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "3a3b-in-7-digits.png",
+      "logo": "3a3b-in-7-digits.jpg",
       "csv": ["3a3b-in-7-digits.csv"]
     },
     {
@@ -1775,7 +1775,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "double-phonetic-alphabet-club.png",
+      "logo": "double-phonetic-alphabet-club.jpg",
       "csv": ["double-phonetic-alphabet-club.csv"]
     },
     {
@@ -1785,7 +1785,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "bbba-club.png",
+      "logo": "bbba-club.jpg",
       "csv": ["bbba-club.csv"]
     },
     {
@@ -1795,7 +1795,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "8d-abbbccca.png",
+      "logo": "8d-abbbccca.jpg",
       "csv": ["8d-abbbccca.csv"]
     },
     {
@@ -1805,7 +1805,7 @@
       "twitter": "",
       "website": "",
       "chat": "",
-      "logo": "6-digits.png",
+      "logo": "6-digits.jpg",
       "csv": ["6-digits.csv"]
     },
     {
@@ -1815,7 +1815,7 @@
       "twitter": "@pi_ens_club",
       "website": "",
       "chat": "",
-      "logo": "the-pi-ens-club.png",
+      "logo": "the-pi-ens-club.jpg",
       "csv": ["the-pi-ens-club.csv"]
     },
     {
@@ -1825,7 +1825,7 @@
       "twitter": "10kENSClubCN",
       "website": "",
       "chat": "https://discord.gg/sazTKfrGYY",
-      "logo": "chinese-10k-club-official.png",
+      "logo": "chinese-10k-club-official.jpg",
       "csv": ["chinese-10k-club-official.csv"]
     },
     {
@@ -1835,7 +1835,7 @@
       "twitter": "99cashclub",
       "website": "https://linktr.ee/enscash",
       "chat": "https://discord.gg/4rgDEaZzzX",
-      "logo": "S99-club.png",
+      "logo": "S99-club.jpg",
       "csv": ["S99-club.csv"]
     },
     {
@@ -1845,7 +1845,7 @@
       "twitter": "999cashclub",
       "website": "https://linktr.ee/enscash",
       "chat": "https://discord.gg/4rgDEaZzzX",
-      "logo": "S999-club.png",
+      "logo": "S999-club.jpg",
       "csv": ["S999-club.csv"]
     },
     {
@@ -1855,7 +1855,7 @@
       "twitter": "10kcashclub",
       "website": "https://linktr.ee/enscash",
       "chat": "https://discord.gg/4rgDEaZzzX",
-      "logo": "S10k-club.png",
+      "logo": "S10k-club.jpg",
       "csv": ["S10k-club.csv"]
     }
   ]
