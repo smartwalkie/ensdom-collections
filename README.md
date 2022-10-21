@@ -6,11 +6,14 @@ ENS Collections are categories of ENS names based on specific patterns or predef
 This repo is maintained by: @ensbuy and is used to display clubs on sales.ensdom.com.
 
 ### Make your own club
-We want to allow the ENS community to have maximum flexibity in their clubs. We will allow any pull request to make a new club as long as it is not a duplicate or superset of several clubs. Once a club is created by you, any further edits will also be merged without questions. 
+We want to allow the ENS community to have maximum flexibility in their clubs. We will allow any pull request to make a new club as long as it is not a duplicate or superset of several clubs. Once a club is created by you, any further edits will also be merged without questions. 
 
 ### Club Conflicts
 If someone else wants to change names in a club, they should request a conversation from the creator and we will allow the merge. 
 If a club is no longer maintained or the creator is not contactable, after 30 days, we will pass on the ownership to the nex requested party. 
+
+### Easy way to submit
+Non technical users have an easy way to submit their clubs here: https://docs.google.com/forms/d/e/1FAIpQLSfmu9U3xJZSxuwysnLD9dTkwI1Qb3-LC7Dx4IJwK-Kv9rV97w/viewform
 
 ### Metadata
 The metadata for all collections in `ens-collections.json`:
