@@ -181,16 +181,6 @@
       "csv": ["5-digit-palindromes.csv"]
     },
     {
-      "name": "10k Club",
-      "slug": "10k-club",
-      "description": "Names with 4 Digits: 0000-9999",
-      "twitter": "10kClubOfficial",
-      "chat": "https://discord.gg/aUemBKUuZ5",
-      "website": "https://10kClub.com",
-      "logo": "10k-club.jpg",
-      "csv": ["10k-club.csv"]
-    },
-    {
       "name": "24h Club: Timekeepers",
       "slug": "24h-club",
       "description": "The eternal #TimeKeepers.",
@@ -199,26 +189,6 @@
       "website": "https://www.ensclock.com",
       "logo": "24h-club.jpg",
       "csv": ["24h-club.csv"]
-    },
-    {
-      "name": "100k Club",
-      "slug": "100k-club",
-      "description": "Names with 5 Digits: 00000-99999.",
-      "twitter": "100kClubENS",
-      "chat": "https://discord.gg/EmcSN6EJpY",
-      "website": "",
-      "logo": "100k-club.jpg",
-      "csv": ["100k-club.csv"]
-    },
-    {
-      "name": "999 Club",
-      "slug": "999-club",
-      "description": "Name with 3 digits: 000-999.",
-      "twitter": "10kClubOfficial",
-      "chat": "https://discord.gg/aUemBKUuZ5",
-      "website": "",
-      "logo": "999-club.jpg",
-      "csv": ["999-club.csv"]
     },
     {
       "name": "Arabic 999 Club",
