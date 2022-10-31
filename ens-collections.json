@@ -1827,6 +1827,26 @@
       "chat": "https://discord.gg/4rgDEaZzzX",
       "logo": "S10k-club.jpg",
       "csv": ["S10k-club.csv"]
+    },
+    {
+      "name": "Pre Punk Spanish",
+      "slug": "pre-punk-spanish",
+      "description": "Spanish Pre Punk Names.",
+      "twitter": "prepunkclub",
+      "website": "https://pre-punk.club/",
+      "chat": "https://discord.gg/2b5q9B56WF",
+      "logo": "pre-punk-spanish.jpg",
+      "csv": ["pre-punk-spanish.csv"]
+    },
+    {
+      "name": "Pre Punk Digits",
+      "slug": "pre-punk-digits",
+      "description": "Pre Punk Digits.",
+      "twitter": "prepunkclub",
+      "website": "https://pre-punk.club/",
+      "chat": "https://discord.gg/2b5q9B56WF",
+      "logo": "pre-punk-digits.jpg",
+      "csv": ["pre-punk-digits.csv"]
     }
   ]
 }
